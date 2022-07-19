@@ -1,6 +1,6 @@
 {
-	"extends": "./.svelte-kit/tsconfig.json",
-	"compilerOptions": {
+		"extends": "./.svelte-kit/tsconfig.json",
+		"compilerOptions": {
 		"allowJs": true,
 		"checkJs": true,
 		"esModuleInterop": true,
@@ -8,6 +8,10 @@
 		"resolveJsonModule": true,
 		"skipLibCheck": true,
 		"sourceMap": true,
-		"strict": true
+		"strict": true,
+		"noImplicitThis": false,
+		"noImplicitAny": false,
+		"noUnusedParameters": false,
+	
 	}
 }
