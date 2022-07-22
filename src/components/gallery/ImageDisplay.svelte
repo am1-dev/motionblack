@@ -2,46 +2,49 @@
 	 // data
      import imageData from "../../data/imageData.json" 
 
-     // lib 
-     import { fade, fly } from 'svelte/transition';
+     
 </script>
 
 
 <style>
-
-.demo-img-row {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: center;
-}	
 	
-.demo-cont {
-  width: 25%;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-}	
 	
 img {
-	width: 50%;
+	width: 80%;
 	margin: 10px;
-	border: .5vw solid white;
+	border: .1vw solid white;
 	transition: .2s;
 	cursor: pointer;
+    filter: grayscale(1);
+    
 }		
 	
 img:hover {   
-  box-shadow: 0 0 13px rgba(0, 0, 0, .8);
+   box-shadow: 0 0 6 rgba(255, 255, 255, 0.8);
+   transform: scale(1.7);
+   filter: grayscale(0);
+
 }	
 </style>
 
 
 <!-- Image Row -->
-<div class="demo-img-row">
-	{#each imageData as {id, imageUrl, name}}
-		<div class="demo-cont">
-			<img id={String(id)} src={imageUrl} alt={name} on:click />
-		</div>
-	{/each}
-</div>
+
+<section  class="flex max-w-auto justify-center">
+    <div class="content flex w-auto h-auto bg-slate-400 m-5">
+       
+    </div>
+    
+    <div class="flex w-64">
+     <div class="grid grid-cols-3 gap-1">
+         {#each imageData as {id, imageUrl, name}}
+             <div class="flex justify-center items-center">
+                 <img id={String(id)} src={imageUrl} alt={name} on:click />
+             </div>
+         {/each}
+     </div>
+    </div>
+
+</section>
+
 

@@ -1,12 +1,12 @@
-<nav class="flex justify-between h-20 p-2 font-lato">
+<nav class="flex justify-between h-20 p-2 font-lato text-zinc-400">
 
-    <div class=" text-lg  font-lato font-light">
+    <div class=" text-lg font-lato font-light ">
             MOTIONBLACK <span class="font-normal">STUDIOS</span>
     </div>
 
     <div>
-        <a href="/">work |</a>
-        <a href="/about">aboot</a>
+        <a href="/" >work |</a>
+        <a href="/about" >aboot</a>
     </div>
 
 </nav>

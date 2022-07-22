@@ -28,7 +28,7 @@
 
 </script>
 <!-- container for image gallery -->
-<section class="lightbox" in:fly={{x: -300}} out:fade>
+<section class="lightbox" in:fade out:fade>
   <span class="close cursor" on:click>&#10007; </span>
   <div class=" flex flex-col w-3/4 mx-auto">
       <div>
@@ -41,7 +41,7 @@
       </div>
       <div class="flex flex-row"> 
           {#each imageData as {id, imageUrl, name, title }} 
-          <Thumbnail selected={id===activeSlide} thumbUrl={imageUrl}, altTag={name}, titleLink={title} on:click={()=>goToSlide(id)} />
+            <Thumbnail selected={id===activeSlide} thumbUrl={imageUrl}, altTag={name}, titleLink={title} on:click={()=>goToSlide(id)} />
           {/each}
       </div>
   </div>

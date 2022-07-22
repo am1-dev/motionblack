@@ -1,7 +1,7 @@
 
 <script>
 
-import ImageLoader from '.././components/Image/ImageLoader.svelte';
+import ImageLoader from '../components/image/ImageLoader.svelte';
   // Generate random number to stop the images caching
   function rand(min, max) {
     let randomNum = Math.random() * (max - min) + min;

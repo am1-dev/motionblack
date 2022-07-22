@@ -1,36 +1,36 @@
 <script>
+    // data 
+    import projectData from "../data/projectData.json"
+  
+ 
+    // lib
+     import {onMount} from "svelte";
+     import {fade} from "svelte/transition";
+ 
+    // interface
+    import Card from "../components/interface/Card.svelte"
 
-    import projectData from "../data/projectData.json";
-    // console.log(projectData);
-
+    let display = false;
     let testImage = 'logo1_bright.png'
 
-
+    onMount(()=> { display=true } )
+    
 </script>
 
-<main class="flex p-2  justify-center border">
-     <section class=" grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 2xl:grid-cols-7 3xl:grid-cols-8 w-full "> 
-        
-        {#each projectData as project}
-        <a href={`/${project.id}`}>
-            <div id="grid item" class="relative h-48 flex justify-center items-center">
-                <svg class="absolute z-10 w-11/12 h-5/6  opacity-40" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none"  viewBox="0 0 192 192">
-                    <rect id="Rectangle_108" data-name="Rectangle 108" width="192" height="192"  fill="#f0f0f0"/>
-                </svg>
-                
-                <div class="absolute z-20 flex justify-center items-center  bg-motionblack bg-opacity-0  p-2 ">
-                    <img class="h-16" src="{testImage}" alt="logo">                    
-                </div>             
+{#if display}
 
-                <div class="absolute flex flex-col font-metropolis z-30 -ml-20 mt-10 items-end">
-                    <p class="text-lg">mmabud.com</p> 
-                    <p class="text-xs">web concept</p>                       
-                </div>
- 
+    <main class="flex p-2 justify-center">
+        <section class=" grid grid-cols-1 w-full max-w-init xs:grid-cols-2 xs:max-w-md md:grid-cols-3 md:max-w-2xl lg:grid-cols-4 lg:max-w-4xl  xl:grid-cols-5 xl:max-w-6xl 2xl:grid-cols-6 2xl:max-w-7xl  3xl:grid-cols-7 3xl:max-w-8xl 4xl:grid-cols-8 4xl:max-w-9xl"> 
+            
+            {#each projectData as {id, thumbUrl, title, type}, i}
+            <!-- <div > -->
+            <div transition:fade={{delay: i * 44}}>
+                <Card {id} {thumbUrl} {title} {type}/>
             </div>
-
-        </a>
-        {/each}
-    </section>
-</main>
+        <!-- </div> -->
+            {/each}
+        </section>
+    </main>
+     <!-- content here -->
+{/if}
 

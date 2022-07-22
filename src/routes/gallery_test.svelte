@@ -18,15 +18,15 @@
 
 </script>
 <!-- container for image gallery -->
-
+<div>
   {#if modalOpen}
     <Lightbox on:click={toggleLightbox} {activeSlide} />
     {:else}
     <ImageDisplay on:click={(e)=>imageClick(e)} />
    {/if}
+</div>
 
   <div class="flex justify-center">  
-
     <button on:click="{toggleLightbox}">Light box</button>
   </div>
 

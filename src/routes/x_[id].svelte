@@ -21,21 +21,16 @@
     // lib
     import { onMount } from "svelte";
 
-    // components
-    import Lightbox from "../components/gallery/Lightbox.svelte";
-    import ImageDisplay from "../components/gallery/ImageDisplay.svelte"
 
-    // props 
     export let id;
-    
-    // data 
     let project = projectData[id-1];
 
-    // holy shat
     let descriptionH;
     let svg2
     let svg2H:number;
-   
+
+   // console.log(id);
+    
     let testImage = 'logo1_bright.png'
     //  onMount(()=> {
     
@@ -50,16 +45,6 @@
         
     // });
     
-    // image display 
-    let modalOpen = false;
-    let activeSlide = 0;
-
-    const toggleLightbox = () => modalOpen = !modalOpen;
-    const imageClick = (e) => {
-
-        activeSlide = e.target.id;
-        toggleLightbox();    
-    }
 
     
 
@@ -70,7 +55,7 @@
     
     <section class="flex p-4 relative" id="1">
         <svg id="svg1" class="absolute z-1 opacity-40 " xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="0 0 100 200">
-            <rect id="rect1" x="4" y="12"  data-name="rect1" width="96" height="110"  fill="#151515"/>
+            <rect id="rect1" x="10" y="12"  data-name="rect1" width="92" height="110"  fill="#151515"/>
         </svg>
 
         <svg id="svg2" class="absolute z-10 -ml-4" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="0 0 100 200" >
@@ -82,13 +67,13 @@
         </svg>
 
 
-        <div class="flex absolute  z-30 justify-center items-center  mt-8 -ml-5 ">
+        <div class="flex absolute z-30 justify-center items-center  mt-8 -ml-5 ">
             <img class="w-20" src="{testImage}" alt="log">
             
 
         </div>
 
-        <div id="description" class="flex flex-col z-40 mt-12">
+        <div id="description" class="flex flex-col absolute z-40 mt-12">
             <p class="text-xs flex ml-48 text-right">web concept</p>
             <div class="text-xl font-medium mt-16 ">title</div>
             <p class="text-xs mt-0.5 w-72">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus deleniti natus consectetur labore corporis, eligendi blanditiis ut maxime neque incidunt recusandae provident fugiat est, unde distinctio nulla deserunt, odit quod!
@@ -107,64 +92,51 @@
                 <li>Etiam dignissim</li>
             </ul>
         </div>
-    </section>
+     </section>
 
-     <section class="flex flex-col p-4 relative mt-10" id="2">
+   
+    
+    <section class="flex p-4 relative mt-5" id="2">
       
-        <svg id="svg6" class="absolute z-10  opacity-40 " xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="0 0 100 200">
-            <rect id="rect6" x="4" y="12"  data-name="rect6" width="96" height="180"  fill="#151515"/>
+        <!-- <svg id="svg4" class="absolute z-100  opacity-40 " xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="0 0 100 200">
+            <rect id="rect4" x="10" y="12"  data-name="rect4" width="92" height="110"  fill="#151515"/>
         </svg>
 
-        <svg id="svg7" class="absolute z-20 -ml-4" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="0 0 100 200" >
-            <rect id="rect7" x="0" y="6" data-name="rect7" width="92" height="100"  fill="#1C1C1C"/>
-        </svg>
+        <svg id="svg5" class="absolute z-110 -ml-4" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="0 0 100 200" >
+            <rect id="rect5" x="0" y="6" data-name="rect5" width="92" height="100"  fill="#1C1C1C"/>
+        </svg> -->
 
-         <div id="description" class="flex flex-col z-40 mt-12">
-            <div class="flex h-12 w-32 bg-zinc-800 -ml-10 text-xl font-medium items-center p-2 shadow-md"> shatter</div>
-               <ul class="text-xs list-disc space-y-2 ml-4 mt-4 ">
+        <div class="ml-4 absolute z-120 ">
+            <div class="text-xl font-medium">title</div>
+            <ul class="text-xs list-disc space-y-2 ml-4">
                 <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque viverra urna ipsum, id congue nibh luctus eu. Nunc dignissim lorem vitae venenatis ullamcorper.</li>
                 <li>Aenean ullamcorper accumsan volutpat. Pellentesque dictum scelerisque aliquam. Pellentesque sagittis lorem ligula, vel fringilla lorem convallis tincidunt.</li>
                 <li>Etiam dignissim, elit ac hendrerit lobortis, velit velit venenatis justo, a dignissim nibh turpis eu nunc.</li>
             </ul>
-        </div>
-        <div class="flex flex-col z-50 mt-16 ">
-            {#if modalOpen}
-              <Lightbox on:click={toggleLightbox} {activeSlide} />
-              {:else}
-              <ImageDisplay on:click={(e)=>imageClick(e)} />
-             {/if}
-          </div>
-
-
-    </section>
-
-    <section class="flex flex-col p-4 relative mt-10" id="2">
-      
-        <svg id="svg8" class="absolute z-10  opacity-40 " xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="0 0 100 200">
-            <rect id="rect8" x="4" y="12"  data-name="rect8" width="96" height="180"  fill="#151515"/>
-        </svg>
-
-        <svg id="svg9" class="absolute z-20 -ml-4" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="0 0 100 200" >
-            <rect id="rect9" x="0" y="6" data-name="rect9" width="92" height="100"  fill="#1C1C1C"/>
-        </svg>
-
-         <div id="description" class="flex flex-col z-40 mt-12">
-            <div class="flex h-12 w-32 bg-zinc-800 -ml-10 text-xl font-medium items-center p-2"> shatter</div>
-               <ul class="text-xs list-disc space-y-2 ml-4 mt-4">
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque viverra urna ipsum, id congue nibh luctus eu. Nunc dignissim lorem vitae venenatis ullamcorper.</li>
-                <li>Aenean ullamcorper accumsan volutpat. Pellentesque dictum scelerisque aliquam. Pellentesque sagittis lorem ligula, vel fringilla lorem convallis tincidunt.</li>
-                <li>Etiam dignissim, elit ac hendrerit lobortis, velit velit venenatis justo, a dignissim nibh turpis eu nunc.</li>
-            </ul>
-        </div>
-        <div id="description" class="flex flex-col z-50 mt-16 ml-16">
-            <p class="text-4xl font-bold">&bdquo;</p>
-            <p class="italic mt-4">   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque viverra urna ipsum, id congue nibh luctus eu. Nunc dignissim lorem vitae venenatis ullamcorper 
-            </p> 
-     
         </div>
     </section>
 
     
+    <!-- <section class="flex p-4" id="3">
+        <div class="p-4 w-golden_b  grid grid-rows-3">
+            <img class=" bg-slate-300 w-24 z-10  " src="thumb1.jpg" alt="log">
+            <img class=" bg-slate-300 w-24 z-20 " src="thumb2.jpg" alt="log">
+            <img class=" bg-slate-300 w-24 z-30 " src="thumb3.jpg" alt="log">
+           
+        </div>
+
+        <div class="ml-4 w-golden_a">
+            <div class="text-xl font-medium">title</div>
+            <ul class="text-xs list-disc space-y-2 ml-4">
+                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque viverra urna ipsum, id congue nibh luctus eu. Nunc dignissim lorem vitae venenatis ullamcorper.</li>
+                <li>Aenean ullamcorper accumsan volutpat. Pellentesque dictum scelerisque aliquam. Pellentesque sagittis lorem ligula, vel fringilla lorem convallis tincidunt.</li>
+                <li>Etiam dignissim, elit ac hendrerit lobortis, velit velit venenatis justo, a dignissim nibh turpis eu nunc.</li>
+            </ul>
+        </div>
+     </section> -->
+     <!-- <button class="hover:bg-white hover:bg-opacity-20 w-28 flex ml-auto justify-center mb-10 text-xs"> Next Project
+    </button> -->
+
 
 
     

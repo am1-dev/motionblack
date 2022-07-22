@@ -3,6 +3,26 @@ module.exports = {
   content: [
     './src/**/*.{svelte,html,js.ts}'],
   theme: {
+    screens: {
+
+      'xs':'540px', 
+
+      'sm': '640px',
+      // => @media (min-width: 640px) { ... }
+
+      'md': '768px',
+      // => @media (min-width: 768px) { ... }
+
+      'lg': '1024px',
+      // => @media (min-width: 1024px) { ... }
+
+      'xl': '1280px',
+      // => @media (min-width: 1280px) { ... }
+
+      '2xl': '1536px',
+      // => @media (min-width: 1536px) { ... }     
+
+    },
     extend: {
       fontFamily: {
         lato: ['lato', 'sans-serif'],
@@ -10,12 +30,18 @@ module.exports = {
 
       },
       screens: {
-        '3xl': '1920px'
-      },
+         '3xl': '1760px',
+         '4xl': '1920px'
+       },
       width: {
         golden_a: "61.8%",
-        golden_b: "38.2%",
-     
+        golden_b: "38.2%",       
+      },
+
+      maxWidth: {
+        'init': "240px",
+        '8xl' : "1440px",
+        '9xl' : "1720px"
       },
       colors: {
         motionblack: {
