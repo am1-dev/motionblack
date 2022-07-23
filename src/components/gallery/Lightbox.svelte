@@ -1,16 +1,17 @@
 <script lang="ts">
     // data
-    import imageData from "../../data/imageData.json" 
+    //import imageData from "../../data/imageData.json" 
 
     //library 
-    import {fade, fly} from 'svelte/transition'
+    import {fade} from 'svelte/transition'
 
     // components 
     import Slide from "./Slide.svelte";
     import Thumbnail from './Thumbnail.svelte';
  
+    export let imageData
     export let activeSlide = 1; 
-    
+  
     // will automatically update when activeSlide updates 
     $:image = imageData[activeSlide];
 
@@ -39,11 +40,11 @@
           <a href="#l" class="prev" on:click="{previousSlide}">&#10094;</a>
           <a href="#r" class="next" on:click="{nextSlide}">&#10095;</a>    
       </div>
-      <div class="flex flex-row"> 
+      <!-- <div class="flex flex-row"> 
           {#each imageData as {id, imageUrl, name, title }} 
             <Thumbnail selected={id===activeSlide} thumbUrl={imageUrl}, altTag={name}, titleLink={title} on:click={()=>goToSlide(id)} />
           {/each}
-      </div>
+      </div> -->
   </div>
 </section>
 
@@ -51,7 +52,7 @@
 
 .lightbox {
 	position: fixed;
-	z-index: 1;
+	z-index: 2000;
 	left: 0;
 	top: 0;
 	width: 100%;

@@ -1,8 +1,10 @@
-<script>
+<script lang="ts">
 	 // data
-     import imageData from "../../data/imageData.json" 
+     //import imageData from "../../data/imageData.json" 
 
-     
+     export let imageData;
+
+
 </script>
 
 

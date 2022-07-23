@@ -43,7 +43,7 @@
             </div>
         
         
-        <footer class="relative">     
+        <footer class="relative h-10 bg-zinc-900 mt-10">     
             <h3>footer goes here</h3>    
         </footer>
 </main>

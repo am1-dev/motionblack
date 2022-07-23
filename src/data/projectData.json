@@ -5,12 +5,12 @@
       "type": "web concept",
       "thumbUrl" : "logo1_test.png",
       "content" : {
-            "name" : "The Project",
-            "skillset": ["punt aut ", "suscipit", "recusandae"],  
-            "decription" : "punt aut facere repellat provident occaecati excepturi optio reprehenderit",
+            "name" : "The Project1",
+            "skillset": ["punt aut ", "suscipit", " cheese whiz"],  
+            "description" : "<p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br> <p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br><p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p> <br>",
             "challenges" : ["gunt aut facere repellat provident occaecati excepturi optio reprehenderit", "provident occaecati excepturi optio reprehenderit provident occaecati excepturi optio reprehenderit", "rerum est autem sunt rem eveniet architecto rerum est autem sunt rem eveniet architecto"],
-            "results" :  ["gunt aut  repellat provident occaecati excepturi optio ", " occaecati excepturi optio reprehenderit provident occaecati  optio reprehenderit", " est autem sunt rem eveniet  rerum est autem sunt rem eveniet "],
-            "quote" : "best jab I ever had ... ",
+            "results" :  ["gunt aut repellat provident occaecati excepturi optio   repellat provident occaecati excepturi optio ", " occaecati excepturi optio reprehenderit provident occaecati  optio reprehenderit", " est autem sunt rem eveniet  rerum est autem sunt rem eveniet est autem sunt rem eveniet  rerum est autem sunt rem eveniet  "],
+            "quote" : "best jab I ever had ... best jab I ever had ...best jab I ever had ...best jab I ever had ...",
             "imageData" : [
                 {
                     "id": 0,
@@ -65,9 +65,9 @@
         "type": "web concept",
         "thumbUrl" : "logo1_bright.png",
         "content" : {
-              "name" : "The Project",
+              "name" : "The Project2",
               "skillset": ["punt aut ", "suscipit", "recusandae"],  
-              "decription" : "punt aut facere repellat provident occaecati excepturi optio reprehenderit",
+              "description" : "<p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br> <p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br><p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p> <br>",
               "challenges" : ["gunt aut facere repellat provident occaecati excepturi optio reprehenderit", "provident occaecati excepturi optio reprehenderit provident occaecati excepturi optio reprehenderit", "rerum est autem sunt rem eveniet architecto rerum est autem sunt rem eveniet architecto"],
               "results" :  ["gunt aut  repellat provident occaecati excepturi optio ", " occaecati excepturi optio reprehenderit provident occaecati  optio reprehenderit", " est autem sunt rem eveniet  rerum est autem sunt rem eveniet "],
               "quote" : "best jab I ever had ... ",
@@ -125,9 +125,9 @@
         "type": "web concept",
         "thumbUrl" : "logo1_bright.png",
         "content" : {
-              "name" : "The Project",
+              "name" : "The Project3",
               "skillset": ["punt aut ", "suscipit", "recusandae"],  
-              "decription" : "punt aut facere repellat provident occaecati excepturi optio reprehenderit",
+              "description" : "<p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br> <p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br><p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p> <br>",
               "challenges" : ["gunt aut facere repellat provident occaecati excepturi optio reprehenderit", "provident occaecati excepturi optio reprehenderit provident occaecati excepturi optio reprehenderit", "rerum est autem sunt rem eveniet architecto rerum est autem sunt rem eveniet architecto"],
               "results" :  ["gunt aut  repellat provident occaecati excepturi optio ", " occaecati excepturi optio reprehenderit provident occaecati  optio reprehenderit", " est autem sunt rem eveniet  rerum est autem sunt rem eveniet "],
               "quote" : "best jab I ever had ... ",
@@ -185,9 +185,9 @@
         "type": "web concept",
         "thumbUrl" : "logo1_bright.png",
         "content" : {
-              "name" : "The Project",
+              "name" : "The Project4",
               "skillset": ["punt aut ", "suscipit", "recusandae"],  
-              "decription" : "punt aut facere repellat provident occaecati excepturi optio reprehenderit",
+              "description" : "<p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br> <p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br><p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p> <br>",
               "challenges" : ["gunt aut facere repellat provident occaecati excepturi optio reprehenderit", "provident occaecati excepturi optio reprehenderit provident occaecati excepturi optio reprehenderit", "rerum est autem sunt rem eveniet architecto rerum est autem sunt rem eveniet architecto"],
               "results" :  ["gunt aut  repellat provident occaecati excepturi optio ", " occaecati excepturi optio reprehenderit provident occaecati  optio reprehenderit", " est autem sunt rem eveniet  rerum est autem sunt rem eveniet "],
               "quote" : "best jab I ever had ... ",
@@ -245,9 +245,9 @@
         "type": "web concept",
         "thumbUrl" : "logo1_bright.png",
         "content" : {
-              "name" : "The Project",
+              "name" : "The Project5",
               "skillset": ["punt aut ", "suscipit", "recusandae"],  
-              "decription" : "punt aut facere repellat provident occaecati excepturi optio reprehenderit",
+              "description" : "<p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br> <p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br><p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p> <br>",
               "challenges" : ["gunt aut facere repellat provident occaecati excepturi optio reprehenderit", "provident occaecati excepturi optio reprehenderit provident occaecati excepturi optio reprehenderit", "rerum est autem sunt rem eveniet architecto rerum est autem sunt rem eveniet architecto"],
               "results" :  ["gunt aut  repellat provident occaecati excepturi optio ", " occaecati excepturi optio reprehenderit provident occaecati  optio reprehenderit", " est autem sunt rem eveniet  rerum est autem sunt rem eveniet "],
               "quote" : "best jab I ever had ... ",
@@ -305,9 +305,9 @@
             "type": "web concept",
             "thumbUrl" : "logo1_bright.png",
             "content" : {
-                  "name" : "The Project",
+                  "name" : "The Project6",
                   "skillset": ["punt aut ", "suscipit", "recusandae"],  
-                  "decription" : "punt aut facere repellat provident occaecati excepturi optio reprehenderit",
+                  "description" : "<p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br> <p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br><p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p> <br>",
                   "challenges" : ["gunt aut facere repellat provident occaecati excepturi optio reprehenderit", "provident occaecati excepturi optio reprehenderit provident occaecati excepturi optio reprehenderit", "rerum est autem sunt rem eveniet architecto rerum est autem sunt rem eveniet architecto"],
                   "results" :  ["gunt aut  repellat provident occaecati excepturi optio ", " occaecati excepturi optio reprehenderit provident occaecati  optio reprehenderit", " est autem sunt rem eveniet  rerum est autem sunt rem eveniet "],
                   "quote" : "best jab I ever had ... ",
@@ -365,9 +365,9 @@
         "type": "web concept",
         "thumbUrl" : "logo1_bright.png",
         "content" : {
-              "name" : "The Project",
-              "skillset": ["punt aut ", "suscipit", "recusandae"],  
-              "decription" : "punt aut facere repellat provident occaecati excepturi optio reprehenderit",
+              "name" : "The Project7",
+              "skillset": ["punt aut ", "suscipit", "project management"],  
+              "description" : "<p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br> <p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br><p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p> <br>",
               "challenges" : ["gunt aut facere repellat provident occaecati excepturi optio reprehenderit", "provident occaecati excepturi optio reprehenderit provident occaecati excepturi optio reprehenderit", "rerum est autem sunt rem eveniet architecto rerum est autem sunt rem eveniet architecto"],
               "results" :  ["gunt aut  repellat provident occaecati excepturi optio ", " occaecati excepturi optio reprehenderit provident occaecati  optio reprehenderit", " est autem sunt rem eveniet  rerum est autem sunt rem eveniet "],
               "quote" : "best jab I ever had ... ",
@@ -425,69 +425,9 @@
           "type": "web concept",
           "thumbUrl" : "logo1_bright.png",
           "content" : {
-                "name" : "The Project",
+                "name" : "The Project8",
                 "skillset": ["punt aut ", "suscipit", "recusandae"],  
-                "decription" : "punt aut facere repellat provident occaecati excepturi optio reprehenderit",
-                "challenges" : ["gunt aut facere repellat provident occaecati excepturi optio reprehenderit", "provident occaecati excepturi optio reprehenderit provident occaecati excepturi optio reprehenderit", "rerum est autem sunt rem eveniet architecto rerum est autem sunt rem eveniet architecto"],
-                "results" :  ["gunt aut  repellat provident occaecati excepturi optio ", " occaecati excepturi optio reprehenderit provident occaecati  optio reprehenderit", " est autem sunt rem eveniet  rerum est autem sunt rem eveniet "],
-                "quote" : "best jab I ever had ... ",
-                "imageData" : [
-                    {
-                        "id": 0,
-                        "name": "Green Nature",
-                        "imageUrl": "https://1.bp.blogspot.com/-up45dJ1vwEE/UMAw3fWxviI/AAAAAAAAOkE/AKrDgMDkLI0/s1600/Green+Nature+Wallpapers.jpg",
-                        "title": "wallpapers-xs.blogspot.com"
-                    },
-                    {
-                        "id": 1,
-                        "name": "Red Nature",
-                        "imageUrl": "https://2.bp.blogspot.com/_N_mOB63qPaE/TTGNvMO6zZI/AAAAAAAARoU/LX2QUhrTmoQ/s1600/Desktop-Nature-Wallpaper.jpg",
-                        "title": "animalszooguru.blogspot.com"
-                    },
-                    {
-                        "id": 2,
-                        "name": "Path",
-                        "imageUrl": "https://2.bp.blogspot.com/-I91kB3xYppQ/TZDPvc-ilzI/AAAAAAAABvw/JQBz0_8E_I4/s1600/Natural+Scenes+%25286%2529.jpg",
-                        "title": "hakeem786.blogspot.com"
-                    },
-                    {
-                        "id": 3,
-                        "name": "Country Road",
-                        "imageUrl": "https://2.bp.blogspot.com/-JxEm57kYpms/UMAvQULqnuI/AAAAAAAAOis/vVuC7CIN-BU/s1600/Green+Nature+Wallpapers+02.jpg",
-                        "title": "wallpapers-xs.blogspot.com"
-                    },
-                    {
-                        "id": 4,
-                        "name": "Throughway",
-                        "imageUrl": "https://1.bp.blogspot.com/-UjjdMoyW55E/TuRwkTMengI/AAAAAAAABCU/Qot38EiUZDU/s1600/Nature+Photo+Gallery.jpg",
-                        "title": "onlinenaturalphoto.blogspot.com"
-                    },
-                    {
-                        "id": 5,
-                        "name": "Golden Pond",
-                        "imageUrl": "https://3.bp.blogspot.com/-DWMXiqFQQsM/Tn2j9xWAwyI/AAAAAAAAAE0/XpQA7OtDGTw/s1600/amazing_nature_pictures+4.jpg",
-                        "title": "crazy-frankenstein.com"
-                    },
-                    {
-                        "id": 6,
-                        "name": "Sunflower",
-                        "imageUrl": "https://s19499.pcdn.co/wp-content/uploads/2019/07/Poolesville-Sunflowers-July-4-2019-DSC08529.jpg",
-                        "title": "mymcmedia.org"
-                    }
-                ]
-    
-    
-            }
-      },
-    {
-          "id": 8,
-          "title": "mmabud.com",
-          "type": "web concept",
-          "thumbUrl" : "logo1_bright.png",
-          "content" : {
-                "name" : "The Project",
-                "skillset": ["punt aut ", "suscipit", "recusandae"],  
-                "decription" : "punt aut facere repellat provident occaecati excepturi optio reprehenderit",
+                "description" : "<p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br> <p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br><p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p> <br>",
                 "challenges" : ["gunt aut facere repellat provident occaecati excepturi optio reprehenderit", "provident occaecati excepturi optio reprehenderit provident occaecati excepturi optio reprehenderit", "rerum est autem sunt rem eveniet architecto rerum est autem sunt rem eveniet architecto"],
                 "results" :  ["gunt aut  repellat provident occaecati excepturi optio ", " occaecati excepturi optio reprehenderit provident occaecati  optio reprehenderit", " est autem sunt rem eveniet  rerum est autem sunt rem eveniet "],
                 "quote" : "best jab I ever had ... ",
@@ -545,9 +485,9 @@
           "type": "web concept",
           "thumbUrl" : "logo1_bright.png",
           "content" : {
-                "name" : "The Project",
+                "name" : "The Project9",
                 "skillset": ["punt aut ", "suscipit", "recusandae"],  
-                "decription" : "punt aut facere repellat provident occaecati excepturi optio reprehenderit",
+                "description" : "<p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br> <p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br><p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p> <br>",
                 "challenges" : ["gunt aut facere repellat provident occaecati excepturi optio reprehenderit", "provident occaecati excepturi optio reprehenderit provident occaecati excepturi optio reprehenderit", "rerum est autem sunt rem eveniet architecto rerum est autem sunt rem eveniet architecto"],
                 "results" :  ["gunt aut  repellat provident occaecati excepturi optio ", " occaecati excepturi optio reprehenderit provident occaecati  optio reprehenderit", " est autem sunt rem eveniet  rerum est autem sunt rem eveniet "],
                 "quote" : "best jab I ever had ... ",
@@ -605,9 +545,9 @@
           "type": "web concept",
           "thumbUrl" : "logo1_bright.png",
           "content" : {
-                "name" : "The Project",
+                "name" : "The Project10",
                 "skillset": ["punt aut ", "suscipit", "recusandae"],  
-                "decription" : "punt aut facere repellat provident occaecati excepturi optio reprehenderit",
+                "description" : "<p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br> <p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br><p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p> <br>",
                 "challenges" : ["gunt aut facere repellat provident occaecati excepturi optio reprehenderit", "provident occaecati excepturi optio reprehenderit provident occaecati excepturi optio reprehenderit", "rerum est autem sunt rem eveniet architecto rerum est autem sunt rem eveniet architecto"],
                 "results" :  ["gunt aut  repellat provident occaecati excepturi optio ", " occaecati excepturi optio reprehenderit provident occaecati  optio reprehenderit", " est autem sunt rem eveniet  rerum est autem sunt rem eveniet "],
                 "quote" : "best jab I ever had ... ",
@@ -660,14 +600,74 @@
             }
       },
     {
-              "id": 11,
+          "id": 11,
+          "title": "mmabud.com",
+          "type": "web concept",
+          "thumbUrl" : "logo1_bright.png",
+          "content" : {
+                "name" : "The Project11",
+                "skillset": ["punt aut ", "suscipit", "recusandae"],  
+                "description" : "<p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br> <p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br><p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p> <br>",
+                "challenges" : ["gunt aut facere repellat provident occaecati excepturi optio reprehenderit", "provident occaecati excepturi optio reprehenderit provident occaecati excepturi optio reprehenderit", "rerum est autem sunt rem eveniet architecto rerum est autem sunt rem eveniet architecto"],
+                "results" :  ["gunt aut  repellat provident occaecati excepturi optio ", " occaecati excepturi optio reprehenderit provident occaecati  optio reprehenderit", " est autem sunt rem eveniet  rerum est autem sunt rem eveniet "],
+                "quote" : "best jab I ever had ... ",
+                "imageData" : [
+                    {
+                        "id": 0,
+                        "name": "Green Nature",
+                        "imageUrl": "https://1.bp.blogspot.com/-up45dJ1vwEE/UMAw3fWxviI/AAAAAAAAOkE/AKrDgMDkLI0/s1600/Green+Nature+Wallpapers.jpg",
+                        "title": "wallpapers-xs.blogspot.com"
+                    },
+                    {
+                        "id": 1,
+                        "name": "Red Nature",
+                        "imageUrl": "https://2.bp.blogspot.com/_N_mOB63qPaE/TTGNvMO6zZI/AAAAAAAARoU/LX2QUhrTmoQ/s1600/Desktop-Nature-Wallpaper.jpg",
+                        "title": "animalszooguru.blogspot.com"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Path",
+                        "imageUrl": "https://2.bp.blogspot.com/-I91kB3xYppQ/TZDPvc-ilzI/AAAAAAAABvw/JQBz0_8E_I4/s1600/Natural+Scenes+%25286%2529.jpg",
+                        "title": "hakeem786.blogspot.com"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Country Road",
+                        "imageUrl": "https://2.bp.blogspot.com/-JxEm57kYpms/UMAvQULqnuI/AAAAAAAAOis/vVuC7CIN-BU/s1600/Green+Nature+Wallpapers+02.jpg",
+                        "title": "wallpapers-xs.blogspot.com"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Throughway",
+                        "imageUrl": "https://1.bp.blogspot.com/-UjjdMoyW55E/TuRwkTMengI/AAAAAAAABCU/Qot38EiUZDU/s1600/Nature+Photo+Gallery.jpg",
+                        "title": "onlinenaturalphoto.blogspot.com"
+                    },
+                    {
+                        "id": 5,
+                        "name": "Golden Pond",
+                        "imageUrl": "https://3.bp.blogspot.com/-DWMXiqFQQsM/Tn2j9xWAwyI/AAAAAAAAAE0/XpQA7OtDGTw/s1600/amazing_nature_pictures+4.jpg",
+                        "title": "crazy-frankenstein.com"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Sunflower",
+                        "imageUrl": "https://s19499.pcdn.co/wp-content/uploads/2019/07/Poolesville-Sunflowers-July-4-2019-DSC08529.jpg",
+                        "title": "mymcmedia.org"
+                    }
+                ]
+    
+    
+            }
+      },
+    {
+              "id": 12,
               "title": "mmabud.com",
               "type": "web concept",
               "thumbUrl" : "logo1_bright.png",
               "content" : {
-                    "name" : "The Project",
+                    "name" : "The Project12",
                     "skillset": ["punt aut ", "suscipit", "recusandae"],  
-                    "decription" : "punt aut facere repellat provident occaecati excepturi optio reprehenderit",
+                    "description" : "<p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br> <p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br><p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p> <br>",
                     "challenges" : ["gunt aut facere repellat provident occaecati excepturi optio reprehenderit", "provident occaecati excepturi optio reprehenderit provident occaecati excepturi optio reprehenderit", "rerum est autem sunt rem eveniet architecto rerum est autem sunt rem eveniet architecto"],
                     "results" :  ["gunt aut  repellat provident occaecati excepturi optio ", " occaecati excepturi optio reprehenderit provident occaecati  optio reprehenderit", " est autem sunt rem eveniet  rerum est autem sunt rem eveniet "],
                     "quote" : "best jab I ever had ... ",

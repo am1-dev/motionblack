@@ -1,11 +1,10 @@
+<script lang="ts">
 
-<script>	
 	export let currentSlide;
 	export let totalSlides;
 	export let imageUrl;
 	export let altTag;
 	export let title;
-
 
 </script>
 
@@ -13,7 +12,8 @@
 <!-- Full-width images with number text -->
 <div class="slides">
 	<div class="slideText">{currentSlide} / {totalSlides}</div>
-	<img src={imageUrl} alt={altTag} title={title}>
+   <!-- promise was fulfilled -->
+  <img src={imageUrl} alt={altTag} title={title}>
 </div>
 
 <style>	

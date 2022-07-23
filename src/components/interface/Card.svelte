@@ -8,7 +8,6 @@
 
  
     // lib
-
     import { gsap } from "gsap";
 
     let unid = "id" + Math.random().toString(16).slice(2);
