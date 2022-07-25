@@ -5,8 +5,8 @@
     </div>
 
     <div>
-        <a href="/" >work |</a>
-        <a href="/about" >aboot</a>
+        <a href="/"sveltekit:noscroll >work |</a>
+        <a href="/about" sveltekit:noscroll >aboot</a>
     </div>
 
 </nav>

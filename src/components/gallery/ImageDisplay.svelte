@@ -32,7 +32,7 @@ img:hover {
 
 <!-- Image Row -->
 
-<section  class="flex max-w-auto justify-center">
+<section id="display"  class="flex max-w-auto justify-center">
     <div class="content flex w-auto h-auto bg-slate-400 m-5">
        
     </div>

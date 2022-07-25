@@ -20,69 +20,62 @@
     
     // lib
     import { onMount } from "svelte";
-    import { beforeUpdate, afterUpdate } from 'svelte';
+    import {rotate} from '../transition'
     //import {gsap}  from "gsap/dist/gsap";        
     //import {ScrollTrigger} from "gsap/dist/ScrollTrigger";  
     import { gsap } from "gsap";
 
-    //gsap.registerPlugin(ScrollTrigger)     
+
 
     // components
     import Lightbox from "../components/gallery/Lightbox.svelte";
     import ImageDisplay from "../components/gallery/ImageDisplay.svelte"
     import DownButton from "../components/interface/DownButton.svelte";
 
-    import { disableScrollHandling } from '$app/navigation';
-   
+  
  
     // props 
     export let id;
     let nextId;
+    let gallery;
+        
     
-    if (Number(id) < projectData.length ) {
-        nextId = Number(id)+1;
-        // console.log(nextId);
-    } else {
-      nextId = 1;
-    }        
-   
+
+
     // data 
     let project = projectData[id-1];
     let contentData = project.content; 
     //console.log("contentData: " + contentData.name);
     
 
-    // holy shat
-    let descriptionH;
-    let svg2
-    let svg2H:number;
-   
+  
     let testImage = 'logo1_bright.png'
     onMount(()=> {
 
-       disableScrollHandling(); 
-          
+        // set opacity of gallery 
+        gallery = document.querySelector("#gallery");
+        gallery.style.opacity = 0;
+
+        if (Number(id) < projectData.length ) {
+            nextId = Number(id)+1;            
+        } else {
+        nextId = 1;
+        }   
+ 
+       showProject();
         
     });
 
-    afterUpdate(()=>{
-        
-        showProject();
-
-    })
     
-
     // animations
     const showProject = ()=> {
        
-        gsap.fromTo("#svg1",{x:-20, y:20,  scale:.8}, {duration:1, delay:1, x:0, y:0, scale:1, opacity:.4})  
-        gsap.fromTo("#svg2",{x:20, y:-20, scale:.8}, {duration:1, delay:1, x:0, y:0, scale:1, opacity:1})   
-        gsap.fromTo("#thumb",{x:-20}, {duration:1, delay:1.2, x:0, opacity:1})  
-        gsap.fromTo("#skills",{x:-20}, {duration:1, delay:1.4, x:0,  opacity:1})  
-        gsap.fromTo("#description",{ y:-10}, {duration:1, delay:1.6, y:0, opacity:1})  
-        
-     // gsap.to(".svg1", {opacity: 0.4, duration:2})
-      //gsap.from(".svg1", { opacity: 1,  y: 100, delay:500,  duration: 1});
+        gsap.fromTo("#svg1",{x:-20, y:20, opacity:0, scale:.8}, {duration:1, delay:.2, x:0, y:0, scale:1, opacity:.4})  
+        gsap.fromTo("#svg2",{x:20, y:-20, opacity:0, scale:.8}, {duration:1, delay:.2, x:0, y:0, scale:1, opacity:1})   
+        gsap.fromTo("#thumb",{x:-20, opacity:0}, {duration:1, delay:.4, x:0, opacity:1})  
+        gsap.fromTo("#skills",{x:-20, opacity:0 }, {duration:1, delay:.6, x:0,  opacity:1})  
+        gsap.fromTo("#description",{ y:-10, opacity:0}, {duration:1, delay:.8, y:0, opacity:1})  
+
       
     }
     const showChallenges = ()=> {
@@ -92,7 +85,7 @@
 
         gsap.fromTo("#challengeTitle",{x:-20}, {duration:1, delay:.4, x:0, opacity:1})  
         gsap.fromTo("#challenges",{x:-20}, {duration:1, delay:.6, x:0,  opacity:1})  
-        gsap.fromTo("#gallery",{ y:-10}, {duration:1, delay:.8, y:0, opacity:1})  
+        gsap.fromTo("#gallery",{ y:-10, opacity:0}, {duration:1, delay:.8, y:0, opacity:1})  
 
     }
     const showResults = ()=> {
@@ -106,12 +99,19 @@
 
     }
 
+
+ 
+
     
     // image display 
     let modalOpen = false;
     let activeSlide = 0;
 
-    const toggleLightbox = () => modalOpen = !modalOpen;
+    const toggleLightbox = () => {
+       
+        modalOpen = !modalOpen;      
+
+    } 
     const imageClick = (e) => {
 
         activeSlide = e.target.id;
@@ -123,7 +123,7 @@
 </script> 
 <!--  -->
  
-<main class=" max-w-xs md:max-w-xl lg:max-w-2xl font-metropolis text-zinc-400 mx-auto mt-10 ">
+<main in:rotate class=" max-w-xs md:max-w-xl lg:max-w-2xl font-metropolis text-zinc-400 mx-auto mt-10 ">
     
     <section class="section1 flex p-4 relative flex-col" id="1">
         <svg id="svg1" class=" absolute z-1 opacity-0 w-full h-[106%] md:w-[106%] md:h-[96%] md:-mt-10 md:ml-4" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="0 0 100 200">
@@ -168,7 +168,7 @@
             <rect id="rect7" x="0" y="6" data-name="rect7" width="100%" height="100%"  fill="#1C1C1C"/>
         </svg>
 
-         <div class="flex flex-col  z-50 mt-8 md:flex-row ">
+         <div class="flex flex-col z-50 mt-8 md:flex-row ">
             <div >
                 <div id="challengeTitle" class="flex opacity-0 w-32 bg-zinc-800 -ml-10 text-xl font-medium p-2 shadow-md">challenges</div>
                    <ul id="challenges" class="opacity-0 text-xs list-disc space-y-2 ml-4 mt-6 md:ml-8 md:w-80 lg:w-96">
@@ -178,12 +178,14 @@
                                
                 </ul>
             </div>            
-            <div id="gallery" class="flex flex-col opacity-0 mt-10 md:-mt-4 md:ml-6 lg:ml-8  ">
+            <div  class="flex flex-col  mt-10 md:-mt-4 md:ml-6 lg:ml-8  ">
                 {#if modalOpen}
                   <Lightbox on:click={toggleLightbox} {activeSlide} imageData={contentData.imageData} />
                   {:else}
-                  <ImageDisplay imageData={contentData.imageData} on:click={(e)=>imageClick(e)} />
-                 {/if}
+                    <div id="gallery">
+                    <ImageDisplay imageData={contentData.imageData} on:click={(e)=>imageClick(e)} />
+                    </div>                 
+                {/if}
             </div>
         </div>
      </section>
@@ -223,7 +225,7 @@
 
     </section>
 
-    <a class="hover:bg-white hover:bg-opacity-20 w-28 flex ml-auto justify-center mb-10 text-xs z-60 mt-20" href={`/${nextId}`}> Next Project</a>
+    <a class="hover:bg-white hover:bg-opacity-20 w-28 flex ml-auto justify-center mb-10 text-xs z-60 mt-20"  href={`/${nextId}`}> Next Project</a>
 
 </main>
 

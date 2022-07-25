@@ -33,9 +33,13 @@
         
         
             <div class="mb-auto relative ">
-                <Transition {url}>                    
-                    <slot/>                            
+                <!-- content-->
+                <Transition {url}>
+
+                    <slot/>
+
                 </Transition>
+               
             </div>
         
         

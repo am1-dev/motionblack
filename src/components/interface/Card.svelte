@@ -49,7 +49,7 @@
 </script>
 
 
-<a href={`/${id}`} on:mouseenter="{mouseEnter}" on:mouseleave="{mouseLeave}">
+<a id="card" href={`/${id}`} on:mouseenter="{mouseEnter}" on:mouseleave="{mouseLeave}">
     <div class="relative h-48 flex justify-center items-center" >
         <svg id={`svg1${unid}`} class="absolute z-1 w-11/12 h-5/6 opacity-0" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none"  viewBox="0 0 192 192">
             <rect id="rect1" data-name="rect1" width="144" height="144"  fill="#151515"/>

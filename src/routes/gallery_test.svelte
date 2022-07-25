@@ -15,6 +15,8 @@
 
   }
 
+  
+
 
 </script>
 <!-- container for image gallery -->
