@@ -1,6 +1,15 @@
 
-<div class="w-8 h-8 animate-bounce " on:click>
-    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000" xml:space="preserve" color="#ffffff">
-        <polygon points="826.7,663.3 826.7,859.3 173.3,859.3 173.3,663.3 42.7,663.3 42.7,859.3 42.7,990 957.3,990 957.3,859.3 957.3,663.3" style="fill:lime;stroke:purple;stroke-width:1"/><polygon points="761.3,467.3 630.7,467.3 630.7,10 369.3,10 369.3,467.3 238.7,467.3 500,794" style="fill:lime;stroke:purple;stroke-width:1" />
-    </svg>
-</div>
+<script>
+
+    export let id;
+    export let disabled;
+
+</script>
+
+<button id={id} {disabled} class="font-metropolis" on:click>
+    <a href="#_" class="relative px-6 py-3 font-bold text-white rounded-lg group">
+        <span class="absolute inset-0 w-full h-full transition duration-300 transform translate-x-1 -translate-y-1 bg-zinc-900 ease opacity-80 group-hover:translate-x-0 group-hover:translate-y-0 "></span>
+        <span class="absolute inset-0 w-full h-full transition duration-300 transform -translate-x-1 translate-y-1 bg-zinc-800 ease opacity-80 group-hover:translate-x-0 group-hover:translate-y-0 "></span>
+        <span class="relative text-zinc-500 text-sm ">Next</span>
+     </a>
+</button>

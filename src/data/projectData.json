@@ -1,723 +1,859 @@
 [
     {
       "id": 1,
-      "title": "mmabud.com",
-      "type": "web concept",
-      "thumbUrl" : "logo1_test.png",
+      "title": "AXSMap",
+      "type": "Volunteer",
+      "thumbUrl" : "images/axs/axs.png",
       "content" : {
-            "name" : "The Project1",
-            "skillset": ["punt aut ", "suscipit", " cheese whiz"],  
-            "description" : "<p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br> <p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br><p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p> <br>",
-            "challenges" : ["gunt aut facere repellat provident occaecati excepturi optio reprehenderit", "provident occaecati excepturi optio reprehenderit provident occaecati excepturi optio reprehenderit", "rerum est autem sunt rem eveniet architecto rerum est autem sunt rem eveniet architecto"],
-            "results" :  ["gunt aut repellat provident occaecati excepturi optio   repellat provident occaecati excepturi optio ", " occaecati excepturi optio reprehenderit provident occaecati  optio reprehenderit", " est autem sunt rem eveniet  rerum est autem sunt rem eveniet est autem sunt rem eveniet  rerum est autem sunt rem eveniet  "],
-            "quote" : "best jab I ever had ... best jab I ever had ...best jab I ever had ...best jab I ever had ...",
+            "name" : "Axs Map",
+            "skillset": ["marketing strategy ", "project management", "research and development"],  
+            "description" : "<p>AXS map is a crowd-sourced tool for sharing reviews for accessible locations in a major cities.  The founder, Jason Dasilva was diagnosed with MS and documented his journey in a movie called When I Walk </p><br><p>I was asked to direct marketing strategy, and coordinate and application to the Canada Media Fund for the second phase of the AXS map initiative.  I volunteered to work with Jason's team to move his venture forward. </p> <br>",
+            "challenges" : ["Working with Jason to understand the needs of AXSMap and devise strategies to achieve his business objectives", "Working with the AXSMap team to strategize and construct RFP","Researching and connecting with local agencies to evaluating services, strategies and leadership","Evaluation of RFP submissions, interviewing candidates", "Organizing CMF application objectives, facilitating and working with the team to develop key sections of application"],
+            "results" :  ["<p>Although we received a positive response, we did not receive the score to continue with the CMF, the funding was to be solicited elsewhere</p><br><p>The work with AXSmap was invaluable, I met many remarkable people, I hope that Jason's vison will be fulfilled.</p>"],
+            "quote" : "discovering uncharted territories ... building new roads and possiblties ",
             "imageData" : [
                 {
                     "id": 0,
-                    "name": "Green Nature",
-                    "imageUrl": "https://1.bp.blogspot.com/-up45dJ1vwEE/UMAw3fWxviI/AAAAAAAAOkE/AKrDgMDkLI0/s1600/Green+Nature+Wallpapers.jpg",
-                    "title": "wallpapers-xs.blogspot.com"
+                    "name": "axs01",
+                    "thumbUrl": "images/axs/axs_01_thumb.jpg",
+                    "imageUrl": "images/axs/axs_01.jpg",
+                    "title": "axs01"
                 },
                 {
                     "id": 1,
-                    "name": "Red Nature",
-                    "imageUrl": "https://2.bp.blogspot.com/_N_mOB63qPaE/TTGNvMO6zZI/AAAAAAAARoU/LX2QUhrTmoQ/s1600/Desktop-Nature-Wallpaper.jpg",
-                    "title": "animalszooguru.blogspot.com"
+                    "name": "axs02",
+                    "thumbUrl": "images/axs/axs_02_thumb.jpg",
+                    "imageUrl": "images/axs/axs_02.jpg",
+                    "title": "axs02"
                 },
                 {
                     "id": 2,
-                    "name": "Path",
-                    "imageUrl": "https://2.bp.blogspot.com/-I91kB3xYppQ/TZDPvc-ilzI/AAAAAAAABvw/JQBz0_8E_I4/s1600/Natural+Scenes+%25286%2529.jpg",
-                    "title": "hakeem786.blogspot.com"
+                    "name": "axs03",
+                    "thumbUrl": "images/axs/axs_03_thumb.jpg",
+                    "imageUrl": "images/axs/axs_03.jpg",
+                    "title": "axs03"
                 },
                 {
                     "id": 3,
-                    "name": "Country Road",
-                    "imageUrl": "https://2.bp.blogspot.com/-JxEm57kYpms/UMAvQULqnuI/AAAAAAAAOis/vVuC7CIN-BU/s1600/Green+Nature+Wallpapers+02.jpg",
-                    "title": "wallpapers-xs.blogspot.com"
+                    "name": "axs04",
+                    "thumbUrl": "images/axs/axs_04_thumb.jpg",
+                    "imageUrl": "images/axs/axs_04.jpg",
+                    "title": "axs04"
                 },
                 {
                     "id": 4,
-                    "name": "Throughway",
-                    "imageUrl": "https://1.bp.blogspot.com/-UjjdMoyW55E/TuRwkTMengI/AAAAAAAABCU/Qot38EiUZDU/s1600/Nature+Photo+Gallery.jpg",
-                    "title": "onlinenaturalphoto.blogspot.com"
+                    "name": "axs05",
+                    "thumbUrl": "images/axs/axs_05_thumb.jpg",
+                    "imageUrl": "images/axs/axs_05.jpg",
+                    "title": "axs05"
                 },
                 {
                     "id": 5,
-                    "name": "Golden Pond",
-                    "imageUrl": "https://3.bp.blogspot.com/-DWMXiqFQQsM/Tn2j9xWAwyI/AAAAAAAAAE0/XpQA7OtDGTw/s1600/amazing_nature_pictures+4.jpg",
-                    "title": "crazy-frankenstein.com"
-                },
-                {
-                    "id": 6,
-                    "name": "Sunflower",
-                    "imageUrl": "https://s19499.pcdn.co/wp-content/uploads/2019/07/Poolesville-Sunflowers-July-4-2019-DSC08529.jpg",
-                    "title": "mymcmedia.org"
+                    "name": "axs06",
+                    "thumbUrl": "images/axs/axs_06_thumb.jpg",
+                    "imageUrl": "images/axs/axs_06.jpg",
+                    "title": "axs07"
                 }
+       
+       
             ]
 
 
         }
-      },
+    },
     {
         "id": 2,
-        "title": "mmabud.com",
-        "type": "web concept",
-        "thumbUrl" : "logo1_bright.png",
+        "title": "James Blak",
+        "type": "web presence",
+        "thumbUrl" : "images/jamesblak/jamesblak.png",
         "content" : {
-              "name" : "The Project2",
-              "skillset": ["punt aut ", "suscipit", "recusandae"],  
-              "description" : "<p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br> <p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br><p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p> <br>",
-              "challenges" : ["gunt aut facere repellat provident occaecati excepturi optio reprehenderit", "provident occaecati excepturi optio reprehenderit provident occaecati excepturi optio reprehenderit", "rerum est autem sunt rem eveniet architecto rerum est autem sunt rem eveniet architecto"],
-              "results" :  ["gunt aut  repellat provident occaecati excepturi optio ", " occaecati excepturi optio reprehenderit provident occaecati  optio reprehenderit", " est autem sunt rem eveniet  rerum est autem sunt rem eveniet "],
-              "quote" : "best jab I ever had ... ",
+              "name" : "James Blak",
+              "skillset": ["Web Production ", "Branding", "Multimedia / Social Media"],  
+              "description" : "<p>James Blak is a DJ producer from Toronto, and had a very diverse portfolio.  His work ranged from live performances, to visual art, to studio production, and also collaborated with many other artists.</p><br><p>Jimmy wanted to reinvent his brand, and converge all of his creative touch points, as well as move into selected social media outlets.</p> <br>",
+              "challenges" : ["James was most interested to present his work, his passion in alignment with the nature of art itself.  Art, introspection, music as nature was a demonstration of his passion.  We selected specific social media outlets that would exemplify this model ", "Creative pieces included audio, video, digital art, we initiated and rebranded all of the social touchpoints into a cohesive identity"],
+              "results" :  ["<p>The end of the road, was only the beginning, some of us never stop evolving.  The end of one adventure, is the start of a new one.</p><br><p>James blak is no more, his new identity is about to take off.  Midair Flight.   GOD SPEED.</p>"],
+              "quote" : "We are just a midair flight of golden wine Between His Pitcher and His Cup",
               "imageData" : [
-                  {
-                      "id": 0,
-                      "name": "Green Nature",
-                      "imageUrl": "https://1.bp.blogspot.com/-up45dJ1vwEE/UMAw3fWxviI/AAAAAAAAOkE/AKrDgMDkLI0/s1600/Green+Nature+Wallpapers.jpg",
-                      "title": "wallpapers-xs.blogspot.com"
-                  },
-                  {
-                      "id": 1,
-                      "name": "Red Nature",
-                      "imageUrl": "https://2.bp.blogspot.com/_N_mOB63qPaE/TTGNvMO6zZI/AAAAAAAARoU/LX2QUhrTmoQ/s1600/Desktop-Nature-Wallpaper.jpg",
-                      "title": "animalszooguru.blogspot.com"
-                  },
-                  {
-                      "id": 2,
-                      "name": "Path",
-                      "imageUrl": "https://2.bp.blogspot.com/-I91kB3xYppQ/TZDPvc-ilzI/AAAAAAAABvw/JQBz0_8E_I4/s1600/Natural+Scenes+%25286%2529.jpg",
-                      "title": "hakeem786.blogspot.com"
-                  },
-                  {
-                      "id": 3,
-                      "name": "Country Road",
-                      "imageUrl": "https://2.bp.blogspot.com/-JxEm57kYpms/UMAvQULqnuI/AAAAAAAAOis/vVuC7CIN-BU/s1600/Green+Nature+Wallpapers+02.jpg",
-                      "title": "wallpapers-xs.blogspot.com"
-                  },
-                  {
-                      "id": 4,
-                      "name": "Throughway",
-                      "imageUrl": "https://1.bp.blogspot.com/-UjjdMoyW55E/TuRwkTMengI/AAAAAAAABCU/Qot38EiUZDU/s1600/Nature+Photo+Gallery.jpg",
-                      "title": "onlinenaturalphoto.blogspot.com"
-                  },
-                  {
-                      "id": 5,
-                      "name": "Golden Pond",
-                      "imageUrl": "https://3.bp.blogspot.com/-DWMXiqFQQsM/Tn2j9xWAwyI/AAAAAAAAAE0/XpQA7OtDGTw/s1600/amazing_nature_pictures+4.jpg",
-                      "title": "crazy-frankenstein.com"
-                  },
-                  {
-                      "id": 6,
-                      "name": "Sunflower",
-                      "imageUrl": "https://s19499.pcdn.co/wp-content/uploads/2019/07/Poolesville-Sunflowers-July-4-2019-DSC08529.jpg",
-                      "title": "mymcmedia.org"
-                  }
+                {
+                    "id": 0,
+                    "name": "jamesblak01",
+                    "thumbUrl": "images/jamesblak/jamesblak_01_thumb.jpg",
+                    "imageUrl": "images/jamesblak/jamesblak_01.jpg",
+                    "title": "jamesblak01"
+                },
+                {
+                    "id": 1,
+                    "name": "jamesblak02",
+                    "thumbUrl": "images/jamesblak/jamesblak_02_thumb.jpg",
+                    "imageUrl": "images/jamesblak/jamesblak_02.jpg",
+                    "title": "jamesblak02"
+                },
+                {
+                    "id": 2,
+                    "name": "jamesblak03",
+                    "thumbUrl": "images/jamesblak/jamesblak_03_thumb.jpg",
+                    "imageUrl": "images/jamesblak/jamesblak_03.jpg",
+                    "title": "jamesblak03"
+                },
+                {
+                    "id": 3,
+                    "name": "jamesblak04",
+                    "thumbUrl": "images/jamesblak/jamesblak_04_thumb.jpg",
+                    "imageUrl": "images/jamesblak/jamesblak_04.jpg",
+                    "title": "jamesblak04"
+                },
+                {
+                    "id": 4,
+                    "name": "jamesblak05",
+                    "thumbUrl": "images/jamesblak/jamesblak_05_thumb.jpg",
+                    "imageUrl": "images/jamesblak/jamesblak_05.jpg",
+                    "title": "jamesblak05"
+                },
+                {
+                    "id": 5,
+                    "name": "jamesblak06",
+                    "thumbUrl": "images/jamesblak/jamesblak_06_thumb.jpg",
+                    "imageUrl": "images/jamesblak/jamesblak_06.jpg",
+                    "title": "jamesblak06"
+                },
+                {
+                    "id": 6,
+                    "name": "jamesblak07",
+                    "thumbUrl": "images/jamesblak/jamesblak_07_thumb.jpg",
+                    "imageUrl": "images/jamesblak/jamesblak_07.jpg",
+                    "title": "jamesblak07"
+                },   
+                {
+                    "id": 7,
+                    "name": "jamesblak08",
+                    "thumbUrl": "images/jamesblak/jamesblak_08_thumb.jpg",
+                    "imageUrl": "images/jamesblak/jamesblak_08.jpg",
+                    "title": "jamesblak08"
+                }   
               ]
   
   
           }
-      },
+    },
     {
-        "id": 3,
-        "title": "mmabud.com",
-        "type": "web concept",
-        "thumbUrl" : "logo1_bright.png",
-        "content" : {
-              "name" : "The Project3",
-              "skillset": ["punt aut ", "suscipit", "recusandae"],  
-              "description" : "<p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br> <p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br><p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p> <br>",
-              "challenges" : ["gunt aut facere repellat provident occaecati excepturi optio reprehenderit", "provident occaecati excepturi optio reprehenderit provident occaecati excepturi optio reprehenderit", "rerum est autem sunt rem eveniet architecto rerum est autem sunt rem eveniet architecto"],
-              "results" :  ["gunt aut  repellat provident occaecati excepturi optio ", " occaecati excepturi optio reprehenderit provident occaecati  optio reprehenderit", " est autem sunt rem eveniet  rerum est autem sunt rem eveniet "],
-              "quote" : "best jab I ever had ... ",
-              "imageData" : [
-                  {
-                      "id": 0,
-                      "name": "Green Nature",
-                      "imageUrl": "https://1.bp.blogspot.com/-up45dJ1vwEE/UMAw3fWxviI/AAAAAAAAOkE/AKrDgMDkLI0/s1600/Green+Nature+Wallpapers.jpg",
-                      "title": "wallpapers-xs.blogspot.com"
-                  },
-                  {
-                      "id": 1,
-                      "name": "Red Nature",
-                      "imageUrl": "https://2.bp.blogspot.com/_N_mOB63qPaE/TTGNvMO6zZI/AAAAAAAARoU/LX2QUhrTmoQ/s1600/Desktop-Nature-Wallpaper.jpg",
-                      "title": "animalszooguru.blogspot.com"
-                  },
-                  {
-                      "id": 2,
-                      "name": "Path",
-                      "imageUrl": "https://2.bp.blogspot.com/-I91kB3xYppQ/TZDPvc-ilzI/AAAAAAAABvw/JQBz0_8E_I4/s1600/Natural+Scenes+%25286%2529.jpg",
-                      "title": "hakeem786.blogspot.com"
-                  },
-                  {
-                      "id": 3,
-                      "name": "Country Road",
-                      "imageUrl": "https://2.bp.blogspot.com/-JxEm57kYpms/UMAvQULqnuI/AAAAAAAAOis/vVuC7CIN-BU/s1600/Green+Nature+Wallpapers+02.jpg",
-                      "title": "wallpapers-xs.blogspot.com"
-                  },
-                  {
-                      "id": 4,
-                      "name": "Throughway",
-                      "imageUrl": "https://1.bp.blogspot.com/-UjjdMoyW55E/TuRwkTMengI/AAAAAAAABCU/Qot38EiUZDU/s1600/Nature+Photo+Gallery.jpg",
-                      "title": "onlinenaturalphoto.blogspot.com"
-                  },
-                  {
-                      "id": 5,
-                      "name": "Golden Pond",
-                      "imageUrl": "https://3.bp.blogspot.com/-DWMXiqFQQsM/Tn2j9xWAwyI/AAAAAAAAAE0/XpQA7OtDGTw/s1600/amazing_nature_pictures+4.jpg",
-                      "title": "crazy-frankenstein.com"
-                  },
-                  {
-                      "id": 6,
-                      "name": "Sunflower",
-                      "imageUrl": "https://s19499.pcdn.co/wp-content/uploads/2019/07/Poolesville-Sunflowers-July-4-2019-DSC08529.jpg",
-                      "title": "mymcmedia.org"
-                  }
-              ]
-  
-  
-          }
-      },
-    {
-        "id": 4,
-        "title": "mmabud.com",
-        "type": "web concept",
-        "thumbUrl" : "logo1_bright.png",
-        "content" : {
-              "name" : "The Project4",
-              "skillset": ["punt aut ", "suscipit", "recusandae"],  
-              "description" : "<p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br> <p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br><p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p> <br>",
-              "challenges" : ["gunt aut facere repellat provident occaecati excepturi optio reprehenderit", "provident occaecati excepturi optio reprehenderit provident occaecati excepturi optio reprehenderit", "rerum est autem sunt rem eveniet architecto rerum est autem sunt rem eveniet architecto"],
-              "results" :  ["gunt aut  repellat provident occaecati excepturi optio ", " occaecati excepturi optio reprehenderit provident occaecati  optio reprehenderit", " est autem sunt rem eveniet  rerum est autem sunt rem eveniet "],
-              "quote" : "best jab I ever had ... ",
-              "imageData" : [
-                  {
-                      "id": 0,
-                      "name": "Green Nature",
-                      "imageUrl": "https://1.bp.blogspot.com/-up45dJ1vwEE/UMAw3fWxviI/AAAAAAAAOkE/AKrDgMDkLI0/s1600/Green+Nature+Wallpapers.jpg",
-                      "title": "wallpapers-xs.blogspot.com"
-                  },
-                  {
-                      "id": 1,
-                      "name": "Red Nature",
-                      "imageUrl": "https://2.bp.blogspot.com/_N_mOB63qPaE/TTGNvMO6zZI/AAAAAAAARoU/LX2QUhrTmoQ/s1600/Desktop-Nature-Wallpaper.jpg",
-                      "title": "animalszooguru.blogspot.com"
-                  },
-                  {
-                      "id": 2,
-                      "name": "Path",
-                      "imageUrl": "https://2.bp.blogspot.com/-I91kB3xYppQ/TZDPvc-ilzI/AAAAAAAABvw/JQBz0_8E_I4/s1600/Natural+Scenes+%25286%2529.jpg",
-                      "title": "hakeem786.blogspot.com"
-                  },
-                  {
-                      "id": 3,
-                      "name": "Country Road",
-                      "imageUrl": "https://2.bp.blogspot.com/-JxEm57kYpms/UMAvQULqnuI/AAAAAAAAOis/vVuC7CIN-BU/s1600/Green+Nature+Wallpapers+02.jpg",
-                      "title": "wallpapers-xs.blogspot.com"
-                  },
-                  {
-                      "id": 4,
-                      "name": "Throughway",
-                      "imageUrl": "https://1.bp.blogspot.com/-UjjdMoyW55E/TuRwkTMengI/AAAAAAAABCU/Qot38EiUZDU/s1600/Nature+Photo+Gallery.jpg",
-                      "title": "onlinenaturalphoto.blogspot.com"
-                  },
-                  {
-                      "id": 5,
-                      "name": "Golden Pond",
-                      "imageUrl": "https://3.bp.blogspot.com/-DWMXiqFQQsM/Tn2j9xWAwyI/AAAAAAAAAE0/XpQA7OtDGTw/s1600/amazing_nature_pictures+4.jpg",
-                      "title": "crazy-frankenstein.com"
-                  },
-                  {
-                      "id": 6,
-                      "name": "Sunflower",
-                      "imageUrl": "https://s19499.pcdn.co/wp-content/uploads/2019/07/Poolesville-Sunflowers-July-4-2019-DSC08529.jpg",
-                      "title": "mymcmedia.org"
-                  }
-              ]
-  
-  
-          }
-      },
-    {
-        "id": 5,
-        "title": "mmabud.com",
-        "type": "web concept",
-        "thumbUrl" : "logo1_bright.png",
-        "content" : {
-              "name" : "The Project5",
-              "skillset": ["punt aut ", "suscipit", "recusandae"],  
-              "description" : "<p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br> <p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br><p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p> <br>",
-              "challenges" : ["gunt aut facere repellat provident occaecati excepturi optio reprehenderit", "provident occaecati excepturi optio reprehenderit provident occaecati excepturi optio reprehenderit", "rerum est autem sunt rem eveniet architecto rerum est autem sunt rem eveniet architecto"],
-              "results" :  ["gunt aut  repellat provident occaecati excepturi optio ", " occaecati excepturi optio reprehenderit provident occaecati  optio reprehenderit", " est autem sunt rem eveniet  rerum est autem sunt rem eveniet "],
-              "quote" : "best jab I ever had ... ",
-              "imageData" : [
-                  {
-                      "id": 0,
-                      "name": "Green Nature",
-                      "imageUrl": "https://1.bp.blogspot.com/-up45dJ1vwEE/UMAw3fWxviI/AAAAAAAAOkE/AKrDgMDkLI0/s1600/Green+Nature+Wallpapers.jpg",
-                      "title": "wallpapers-xs.blogspot.com"
-                  },
-                  {
-                      "id": 1,
-                      "name": "Red Nature",
-                      "imageUrl": "https://2.bp.blogspot.com/_N_mOB63qPaE/TTGNvMO6zZI/AAAAAAAARoU/LX2QUhrTmoQ/s1600/Desktop-Nature-Wallpaper.jpg",
-                      "title": "animalszooguru.blogspot.com"
-                  },
-                  {
-                      "id": 2,
-                      "name": "Path",
-                      "imageUrl": "https://2.bp.blogspot.com/-I91kB3xYppQ/TZDPvc-ilzI/AAAAAAAABvw/JQBz0_8E_I4/s1600/Natural+Scenes+%25286%2529.jpg",
-                      "title": "hakeem786.blogspot.com"
-                  },
-                  {
-                      "id": 3,
-                      "name": "Country Road",
-                      "imageUrl": "https://2.bp.blogspot.com/-JxEm57kYpms/UMAvQULqnuI/AAAAAAAAOis/vVuC7CIN-BU/s1600/Green+Nature+Wallpapers+02.jpg",
-                      "title": "wallpapers-xs.blogspot.com"
-                  },
-                  {
-                      "id": 4,
-                      "name": "Throughway",
-                      "imageUrl": "https://1.bp.blogspot.com/-UjjdMoyW55E/TuRwkTMengI/AAAAAAAABCU/Qot38EiUZDU/s1600/Nature+Photo+Gallery.jpg",
-                      "title": "onlinenaturalphoto.blogspot.com"
-                  },
-                  {
-                      "id": 5,
-                      "name": "Golden Pond",
-                      "imageUrl": "https://3.bp.blogspot.com/-DWMXiqFQQsM/Tn2j9xWAwyI/AAAAAAAAAE0/XpQA7OtDGTw/s1600/amazing_nature_pictures+4.jpg",
-                      "title": "crazy-frankenstein.com"
-                  },
-                  {
-                      "id": 6,
-                      "name": "Sunflower",
-                      "imageUrl": "https://s19499.pcdn.co/wp-content/uploads/2019/07/Poolesville-Sunflowers-July-4-2019-DSC08529.jpg",
-                      "title": "mymcmedia.org"
-                  }
-              ]
-  
-  
-          }
-      },
-    {
-            "id": 6,
-            "title": "mmabud.com",
-            "type": "web concept",
-            "thumbUrl" : "logo1_bright.png",
-            "content" : {
-                  "name" : "The Project6",
-                  "skillset": ["punt aut ", "suscipit", "recusandae"],  
-                  "description" : "<p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br> <p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br><p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p> <br>",
-                  "challenges" : ["gunt aut facere repellat provident occaecati excepturi optio reprehenderit", "provident occaecati excepturi optio reprehenderit provident occaecati excepturi optio reprehenderit", "rerum est autem sunt rem eveniet architecto rerum est autem sunt rem eveniet architecto"],
-                  "results" :  ["gunt aut  repellat provident occaecati excepturi optio ", " occaecati excepturi optio reprehenderit provident occaecati  optio reprehenderit", " est autem sunt rem eveniet  rerum est autem sunt rem eveniet "],
-                  "quote" : "best jab I ever had ... ",
-                  "imageData" : [
-                      {
-                          "id": 0,
-                          "name": "Green Nature",
-                          "imageUrl": "https://1.bp.blogspot.com/-up45dJ1vwEE/UMAw3fWxviI/AAAAAAAAOkE/AKrDgMDkLI0/s1600/Green+Nature+Wallpapers.jpg",
-                          "title": "wallpapers-xs.blogspot.com"
-                      },
-                      {
-                          "id": 1,
-                          "name": "Red Nature",
-                          "imageUrl": "https://2.bp.blogspot.com/_N_mOB63qPaE/TTGNvMO6zZI/AAAAAAAARoU/LX2QUhrTmoQ/s1600/Desktop-Nature-Wallpaper.jpg",
-                          "title": "animalszooguru.blogspot.com"
-                      },
-                      {
-                          "id": 2,
-                          "name": "Path",
-                          "imageUrl": "https://2.bp.blogspot.com/-I91kB3xYppQ/TZDPvc-ilzI/AAAAAAAABvw/JQBz0_8E_I4/s1600/Natural+Scenes+%25286%2529.jpg",
-                          "title": "hakeem786.blogspot.com"
-                      },
-                      {
-                          "id": 3,
-                          "name": "Country Road",
-                          "imageUrl": "https://2.bp.blogspot.com/-JxEm57kYpms/UMAvQULqnuI/AAAAAAAAOis/vVuC7CIN-BU/s1600/Green+Nature+Wallpapers+02.jpg",
-                          "title": "wallpapers-xs.blogspot.com"
-                      },
-                      {
-                          "id": 4,
-                          "name": "Throughway",
-                          "imageUrl": "https://1.bp.blogspot.com/-UjjdMoyW55E/TuRwkTMengI/AAAAAAAABCU/Qot38EiUZDU/s1600/Nature+Photo+Gallery.jpg",
-                          "title": "onlinenaturalphoto.blogspot.com"
-                      },
-                      {
-                          "id": 5,
-                          "name": "Golden Pond",
-                          "imageUrl": "https://3.bp.blogspot.com/-DWMXiqFQQsM/Tn2j9xWAwyI/AAAAAAAAAE0/XpQA7OtDGTw/s1600/amazing_nature_pictures+4.jpg",
-                          "title": "crazy-frankenstein.com"
-                      },
-                      {
-                          "id": 6,
-                          "name": "Sunflower",
-                          "imageUrl": "https://s19499.pcdn.co/wp-content/uploads/2019/07/Poolesville-Sunflowers-July-4-2019-DSC08529.jpg",
-                          "title": "mymcmedia.org"
-                      }
-                  ]
-      
-      
-              }
-      },
-    {
-        "id": 7,
-        "title": "mmabud.com",
-        "type": "web concept",
-        "thumbUrl" : "logo1_bright.png",
-        "content" : {
-              "name" : "The Project7",
-              "skillset": ["punt aut ", "suscipit", "project management"],  
-              "description" : "<p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br> <p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br><p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p> <br>",
-              "challenges" : ["gunt aut facere repellat provident occaecati excepturi optio reprehenderit", "provident occaecati excepturi optio reprehenderit provident occaecati excepturi optio reprehenderit", "rerum est autem sunt rem eveniet architecto rerum est autem sunt rem eveniet architecto"],
-              "results" :  ["gunt aut  repellat provident occaecati excepturi optio ", " occaecati excepturi optio reprehenderit provident occaecati  optio reprehenderit", " est autem sunt rem eveniet  rerum est autem sunt rem eveniet "],
-              "quote" : "best jab I ever had ... ",
-              "imageData" : [
-                  {
-                      "id": 0,
-                      "name": "Green Nature",
-                      "imageUrl": "https://1.bp.blogspot.com/-up45dJ1vwEE/UMAw3fWxviI/AAAAAAAAOkE/AKrDgMDkLI0/s1600/Green+Nature+Wallpapers.jpg",
-                      "title": "wallpapers-xs.blogspot.com"
-                  },
-                  {
-                      "id": 1,
-                      "name": "Red Nature",
-                      "imageUrl": "https://2.bp.blogspot.com/_N_mOB63qPaE/TTGNvMO6zZI/AAAAAAAARoU/LX2QUhrTmoQ/s1600/Desktop-Nature-Wallpaper.jpg",
-                      "title": "animalszooguru.blogspot.com"
-                  },
-                  {
-                      "id": 2,
-                      "name": "Path",
-                      "imageUrl": "https://2.bp.blogspot.com/-I91kB3xYppQ/TZDPvc-ilzI/AAAAAAAABvw/JQBz0_8E_I4/s1600/Natural+Scenes+%25286%2529.jpg",
-                      "title": "hakeem786.blogspot.com"
-                  },
-                  {
-                      "id": 3,
-                      "name": "Country Road",
-                      "imageUrl": "https://2.bp.blogspot.com/-JxEm57kYpms/UMAvQULqnuI/AAAAAAAAOis/vVuC7CIN-BU/s1600/Green+Nature+Wallpapers+02.jpg",
-                      "title": "wallpapers-xs.blogspot.com"
-                  },
-                  {
-                      "id": 4,
-                      "name": "Throughway",
-                      "imageUrl": "https://1.bp.blogspot.com/-UjjdMoyW55E/TuRwkTMengI/AAAAAAAABCU/Qot38EiUZDU/s1600/Nature+Photo+Gallery.jpg",
-                      "title": "onlinenaturalphoto.blogspot.com"
-                  },
-                  {
-                      "id": 5,
-                      "name": "Golden Pond",
-                      "imageUrl": "https://3.bp.blogspot.com/-DWMXiqFQQsM/Tn2j9xWAwyI/AAAAAAAAAE0/XpQA7OtDGTw/s1600/amazing_nature_pictures+4.jpg",
-                      "title": "crazy-frankenstein.com"
-                  },
-                  {
-                      "id": 6,
-                      "name": "Sunflower",
-                      "imageUrl": "https://s19499.pcdn.co/wp-content/uploads/2019/07/Poolesville-Sunflowers-July-4-2019-DSC08529.jpg",
-                      "title": "mymcmedia.org"
-                  }
-              ]
-  
-  
-          }
-      },
-    {
-          "id": 8,
-          "title": "mmabud.com",
-          "type": "web concept",
-          "thumbUrl" : "logo1_bright.png",
-          "content" : {
-                "name" : "The Project8",
-                "skillset": ["punt aut ", "suscipit", "recusandae"],  
-                "description" : "<p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br> <p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br><p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p> <br>",
-                "challenges" : ["gunt aut facere repellat provident occaecati excepturi optio reprehenderit", "provident occaecati excepturi optio reprehenderit provident occaecati excepturi optio reprehenderit", "rerum est autem sunt rem eveniet architecto rerum est autem sunt rem eveniet architecto"],
-                "results" :  ["gunt aut  repellat provident occaecati excepturi optio ", " occaecati excepturi optio reprehenderit provident occaecati  optio reprehenderit", " est autem sunt rem eveniet  rerum est autem sunt rem eveniet "],
-                "quote" : "best jab I ever had ... ",
-                "imageData" : [
-                    {
-                        "id": 0,
-                        "name": "Green Nature",
-                        "imageUrl": "https://1.bp.blogspot.com/-up45dJ1vwEE/UMAw3fWxviI/AAAAAAAAOkE/AKrDgMDkLI0/s1600/Green+Nature+Wallpapers.jpg",
-                        "title": "wallpapers-xs.blogspot.com"
-                    },
-                    {
-                        "id": 1,
-                        "name": "Red Nature",
-                        "imageUrl": "https://2.bp.blogspot.com/_N_mOB63qPaE/TTGNvMO6zZI/AAAAAAAARoU/LX2QUhrTmoQ/s1600/Desktop-Nature-Wallpaper.jpg",
-                        "title": "animalszooguru.blogspot.com"
-                    },
-                    {
-                        "id": 2,
-                        "name": "Path",
-                        "imageUrl": "https://2.bp.blogspot.com/-I91kB3xYppQ/TZDPvc-ilzI/AAAAAAAABvw/JQBz0_8E_I4/s1600/Natural+Scenes+%25286%2529.jpg",
-                        "title": "hakeem786.blogspot.com"
-                    },
-                    {
-                        "id": 3,
-                        "name": "Country Road",
-                        "imageUrl": "https://2.bp.blogspot.com/-JxEm57kYpms/UMAvQULqnuI/AAAAAAAAOis/vVuC7CIN-BU/s1600/Green+Nature+Wallpapers+02.jpg",
-                        "title": "wallpapers-xs.blogspot.com"
-                    },
-                    {
-                        "id": 4,
-                        "name": "Throughway",
-                        "imageUrl": "https://1.bp.blogspot.com/-UjjdMoyW55E/TuRwkTMengI/AAAAAAAABCU/Qot38EiUZDU/s1600/Nature+Photo+Gallery.jpg",
-                        "title": "onlinenaturalphoto.blogspot.com"
-                    },
-                    {
-                        "id": 5,
-                        "name": "Golden Pond",
-                        "imageUrl": "https://3.bp.blogspot.com/-DWMXiqFQQsM/Tn2j9xWAwyI/AAAAAAAAAE0/XpQA7OtDGTw/s1600/amazing_nature_pictures+4.jpg",
-                        "title": "crazy-frankenstein.com"
-                    },
-                    {
-                        "id": 6,
-                        "name": "Sunflower",
-                        "imageUrl": "https://s19499.pcdn.co/wp-content/uploads/2019/07/Poolesville-Sunflowers-July-4-2019-DSC08529.jpg",
-                        "title": "mymcmedia.org"
-                    }
-                ]
-    
-    
+    "id": 3,
+    "title": "Game Almighty",
+    "type": "client work",
+    "thumbUrl" : "images/ga/ga.png",
+    "content" : {
+            "name" : "Game Almighty",
+            "skillset": ["Creative Rich Media ", "Interactive / UI"],  
+            "description" : "<p>Game Almighty was an inspiring initiative to create an online gaming site, directed by a young entrepreneur out of California. His desire was to assemble top level talent to work with him on his project. </p><br><p>I was asked to create all of the interactive pieces for the main landing page. </p> <br>",
+            "challenges" : ["We were all self-directed, and expected to deliver excellence.  All work was remote (before all work was remote!)", "The delivery of accurate high quality work was the expectation, considering it was also my expectation, this project was remarkably uneventful.   "],
+            "results" :  ["<p>An exceptional experience, all went down without a hitch, every conversation was inspiring, a great example of working with a visionary, driven by excellence and passion. </p><br><p>I was delighted help assemble his vision, a dream into reality.</p>"],
+            "quote" : "A hero need not speak. When he is gone, the world will speak for him.",
+            "imageData" : [
+            {
+                "id": 0,
+                "name": "ga01",
+                "thumbUrl": "images/ga/ga_01_thumb.jpg",
+                "imageUrl": "images/ga/ga_01.jpg",
+                "title": "ga01"
+            },
+            {
+                "id": 1,
+                "name": "ga02",
+                "thumbUrl": "images/ga/ga_02_thumb.jpg",
+                "imageUrl": "images/ga/ga_02.jpg",
+                "title": "ga02"
+            },
+            {
+                "id": 2,
+                "name": "ga03",
+                "thumbUrl": "images/ga/ga_03_thumb.jpg",
+                "imageUrl": "images/ga/ga_03.jpg",
+                "title": "ga03"
+            },
+            {
+                "id": 3,
+                "name": "ga04",
+                "thumbUrl": "images/ga/ga_04_thumb.jpg",
+                "imageUrl": "images/ga/ga_04.jpg",
+                "title": "ga04"
+            },
+            {
+                "id": 4,
+                "name": "ga05",
+                "thumbUrl": "images/ga/ga_05_thumb.jpg",
+                "imageUrl": "images/ga/ga_05.jpg",
+                "title": "ga05"
             }
-      },
+             
+            ]
+
+
+        }
+    },
     {
-          "id": 9,
-          "title": "mmabud.com",
-          "type": "web concept",
-          "thumbUrl" : "logo1_bright.png",
-          "content" : {
-                "name" : "The Project9",
-                "skillset": ["punt aut ", "suscipit", "recusandae"],  
-                "description" : "<p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br> <p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br><p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p> <br>",
-                "challenges" : ["gunt aut facere repellat provident occaecati excepturi optio reprehenderit", "provident occaecati excepturi optio reprehenderit provident occaecati excepturi optio reprehenderit", "rerum est autem sunt rem eveniet architecto rerum est autem sunt rem eveniet architecto"],
-                "results" :  ["gunt aut  repellat provident occaecati excepturi optio ", " occaecati excepturi optio reprehenderit provident occaecati  optio reprehenderit", " est autem sunt rem eveniet  rerum est autem sunt rem eveniet "],
-                "quote" : "best jab I ever had ... ",
-                "imageData" : [
-                    {
-                        "id": 0,
-                        "name": "Green Nature",
-                        "imageUrl": "https://1.bp.blogspot.com/-up45dJ1vwEE/UMAw3fWxviI/AAAAAAAAOkE/AKrDgMDkLI0/s1600/Green+Nature+Wallpapers.jpg",
-                        "title": "wallpapers-xs.blogspot.com"
-                    },
-                    {
-                        "id": 1,
-                        "name": "Red Nature",
-                        "imageUrl": "https://2.bp.blogspot.com/_N_mOB63qPaE/TTGNvMO6zZI/AAAAAAAARoU/LX2QUhrTmoQ/s1600/Desktop-Nature-Wallpaper.jpg",
-                        "title": "animalszooguru.blogspot.com"
-                    },
-                    {
-                        "id": 2,
-                        "name": "Path",
-                        "imageUrl": "https://2.bp.blogspot.com/-I91kB3xYppQ/TZDPvc-ilzI/AAAAAAAABvw/JQBz0_8E_I4/s1600/Natural+Scenes+%25286%2529.jpg",
-                        "title": "hakeem786.blogspot.com"
-                    },
-                    {
-                        "id": 3,
-                        "name": "Country Road",
-                        "imageUrl": "https://2.bp.blogspot.com/-JxEm57kYpms/UMAvQULqnuI/AAAAAAAAOis/vVuC7CIN-BU/s1600/Green+Nature+Wallpapers+02.jpg",
-                        "title": "wallpapers-xs.blogspot.com"
-                    },
-                    {
-                        "id": 4,
-                        "name": "Throughway",
-                        "imageUrl": "https://1.bp.blogspot.com/-UjjdMoyW55E/TuRwkTMengI/AAAAAAAABCU/Qot38EiUZDU/s1600/Nature+Photo+Gallery.jpg",
-                        "title": "onlinenaturalphoto.blogspot.com"
-                    },
-                    {
-                        "id": 5,
-                        "name": "Golden Pond",
-                        "imageUrl": "https://3.bp.blogspot.com/-DWMXiqFQQsM/Tn2j9xWAwyI/AAAAAAAAAE0/XpQA7OtDGTw/s1600/amazing_nature_pictures+4.jpg",
-                        "title": "crazy-frankenstein.com"
-                    },
-                    {
-                        "id": 6,
-                        "name": "Sunflower",
-                        "imageUrl": "https://s19499.pcdn.co/wp-content/uploads/2019/07/Poolesville-Sunflowers-July-4-2019-DSC08529.jpg",
-                        "title": "mymcmedia.org"
-                    }
-                ]
-    
-    
+    "id": 4,
+    "title": "Cryptologic",
+    "type": "client work",
+    "thumbUrl" : "images/crypto/crypto.png",
+    "content" : {
+            "name" : "Cryptologic",
+            "skillset": ["Front-end Architecture", "Lead Development", "Solution Management"],  
+            "description" : "<p>Cryptologic was recognized as industry leader in online gaming, provided licensed software for a global clientele.  Our division provided the solution for the complete online suite, which consisted of front-end, back-end build, unit-testing and QA teams.</p><br><p>With many high profile clients, we engaged in an intensive and immersive development experience. </p> <br>",
+            "challenges" : ["The developer environment was both intense and highly engaging, the expectations were high, the detail was microscopic, product teams took more than a year to prepare for technical implementation.  All products had to comply with strict localization and customized requirements", "Our architecture had to accurately meet the business requirements, and integrate with all other development units.  We were also asked to advance the technical footprint, and offer guidance for version updates and upgrades to technical stacks. ","Adherence to timelnes was paramount, our project had to be presented to management ever six weeks. "],
+            "results" :  ["<p>Our team delivered single player, and multiplayer Roulette, which comprised 20% of overall revenue.  Our products were recognized to be the highest quality, bulletproof, and engaging.</p><br><p>The Cryptologic team consisted of dedicated professionals who were passionate about there culture and their craft</p>"],
+            "quote" : "Once you start thinking you have nothing left to learn, you have everything to learn.",
+            "imageData" : [
+            {
+                "id": 0,      
+                "name": "crypto01",
+                "thumbUrl": "images/crypto/crypto_01_thumb.jpg",
+                "imageUrl": "images/crypto/crypto_01.jpg",
+                "title": "crypto01"
+            },
+            {
+                "id": 1,
+                "name": "crypto02",
+                "thumbUrl": "images/crypto/crypto_02_thumb.jpg",
+                "imageUrl": "images/crypto/crypto_02.jpg",
+                "title": "crypto02"
+            },
+            {
+                "id": 2,
+                "name": "crypto03",
+                "thumbUrl": "images/crypto/crypto_03_thumb.jpg",
+                "imageUrl": "images/crypto/crypto_03.jpg",
+                "title": "crypto03"
+            },
+            {
+                "id": 3,
+                "name": "crypto04",
+                "thumbUrl": "images/crypto/crypto_04_thumb.jpg",
+                "imageUrl": "images/crypto/crypto04.jpg",
+                "title": "crypto04"
+            },
+            {
+                "id": 4,
+                "name": "crypto05",
+                "thumbUrl": "images/crypto/crypto_05_thumb.jpg",
+                "imageUrl": "images/crypto/crypto_05.jpg",
+                "title": "crypto05"
             }
-      },
+            
+            ]
+
+
+        }
+    },
     {
-          "id": 10,
-          "title": "mmabud.com",
-          "type": "web concept",
-          "thumbUrl" : "logo1_bright.png",
-          "content" : {
-                "name" : "The Project10",
-                "skillset": ["punt aut ", "suscipit", "recusandae"],  
-                "description" : "<p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br> <p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br><p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p> <br>",
-                "challenges" : ["gunt aut facere repellat provident occaecati excepturi optio reprehenderit", "provident occaecati excepturi optio reprehenderit provident occaecati excepturi optio reprehenderit", "rerum est autem sunt rem eveniet architecto rerum est autem sunt rem eveniet architecto"],
-                "results" :  ["gunt aut  repellat provident occaecati excepturi optio ", " occaecati excepturi optio reprehenderit provident occaecati  optio reprehenderit", " est autem sunt rem eveniet  rerum est autem sunt rem eveniet "],
-                "quote" : "best jab I ever had ... ",
-                "imageData" : [
-                    {
-                        "id": 0,
-                        "name": "Green Nature",
-                        "imageUrl": "https://1.bp.blogspot.com/-up45dJ1vwEE/UMAw3fWxviI/AAAAAAAAOkE/AKrDgMDkLI0/s1600/Green+Nature+Wallpapers.jpg",
-                        "title": "wallpapers-xs.blogspot.com"
-                    },
-                    {
-                        "id": 1,
-                        "name": "Red Nature",
-                        "imageUrl": "https://2.bp.blogspot.com/_N_mOB63qPaE/TTGNvMO6zZI/AAAAAAAARoU/LX2QUhrTmoQ/s1600/Desktop-Nature-Wallpaper.jpg",
-                        "title": "animalszooguru.blogspot.com"
-                    },
-                    {
-                        "id": 2,
-                        "name": "Path",
-                        "imageUrl": "https://2.bp.blogspot.com/-I91kB3xYppQ/TZDPvc-ilzI/AAAAAAAABvw/JQBz0_8E_I4/s1600/Natural+Scenes+%25286%2529.jpg",
-                        "title": "hakeem786.blogspot.com"
-                    },
-                    {
-                        "id": 3,
-                        "name": "Country Road",
-                        "imageUrl": "https://2.bp.blogspot.com/-JxEm57kYpms/UMAvQULqnuI/AAAAAAAAOis/vVuC7CIN-BU/s1600/Green+Nature+Wallpapers+02.jpg",
-                        "title": "wallpapers-xs.blogspot.com"
-                    },
-                    {
-                        "id": 4,
-                        "name": "Throughway",
-                        "imageUrl": "https://1.bp.blogspot.com/-UjjdMoyW55E/TuRwkTMengI/AAAAAAAABCU/Qot38EiUZDU/s1600/Nature+Photo+Gallery.jpg",
-                        "title": "onlinenaturalphoto.blogspot.com"
-                    },
-                    {
-                        "id": 5,
-                        "name": "Golden Pond",
-                        "imageUrl": "https://3.bp.blogspot.com/-DWMXiqFQQsM/Tn2j9xWAwyI/AAAAAAAAAE0/XpQA7OtDGTw/s1600/amazing_nature_pictures+4.jpg",
-                        "title": "crazy-frankenstein.com"
-                    },
-                    {
-                        "id": 6,
-                        "name": "Sunflower",
-                        "imageUrl": "https://s19499.pcdn.co/wp-content/uploads/2019/07/Poolesville-Sunflowers-July-4-2019-DSC08529.jpg",
-                        "title": "mymcmedia.org"
-                    }
-                ]
-    
-    
+    "id": 5,
+    "title": "BMO",
+    "type": "client work",
+    "thumbUrl" : "images/bmo/bmo.png",
+    "content" : {
+            "name" : "Bank of Montreal",
+            "skillset": ["Front-end Architecture", "Learning Solutions", "Interactive Rich Media"],  
+            "description" : "<p>The Institute for learning required advanced solutions to facilitate the learning objectives to effectively train their front-line employees.  Our advanced team worked with Senior Management, Program Managers, and Subject Experts to develop and implement companywide interactive learning solutions to enhance  best qualitative practices and operational effectiveness.</p><br><p>Learning projects included full-stack web solutions, interactive rich media, content management and design. </p> <br>",
+            "challenges" : ["Our technical models always involved moving with the modern digital landscape. Key requirements included responsiveness,  smooth operation within legacy systems, expeditious and simple content management, all with specificity to the learning objectives", "We required tact and clarity with our communication with non-technical leadership to recommend strategies that would effectively solve business requirements"],
+            "results" :  ["<p>We were recognized as an advanced team who delivered consistent, high quality results, and created marked impressions with many business units.</p><br><p>The work at BMO is considered my best work to date. </p>"],
+            "quote" : "Many ideas grow better when transplanted into another mind than the one where they sprang up",
+            "imageData" : [
+            {
+                "id": 0,
+                "name": "bmo01",
+                "thumbUrl": "images/bmo/bmo_01_thumb.jpg",
+                "imageUrl": "images/bmo/bmo_01.jpg",
+                "title": "bmo01"
+            },
+            {
+                "id": 1,
+                "name": "bmo02",
+                "thumbUrl": "images/bmo/bmo_02_thumb.jpg",
+                "imageUrl": "images/bmo/bmo_02.jpg",
+                "title": "bmo02"
+            },
+            {
+                "id": 2,
+                "name": "bmo03",
+                "thumbUrl": "images/bmo/bmo_03_thumb.jpg",
+                "imageUrl": "images/bmo/bmo_03.jpg",
+                "title": "bmo03"
+            },
+            {
+                "id": 3,
+                "name": "bmo04",
+                "thumbUrl": "images/bmo/bmo_04_thumb.jpg",
+                "imageUrl": "images/bmo/bmo_04.jpg",
+                "title": "bmo04"
+            },
+            {
+                "id": 4,
+                "name": "bmo05",
+                "thumbUrl": "images/bmo/bmo_05_thumb.jpg",
+                "imageUrl": "images/bmo/bmo_05.jpg",
+                "title": "bmo05"
+            },
+            {
+                "id": 5,
+                "name": "bmo06",
+                "thumbUrl": "images/bmo/bmo_06_thumb.jpg",
+                "imageUrl": "images/bmo/bmo_06.jpg",
+                "title": "bmo06"
+            },
+            {
+                "id": 6,
+                "name": "bmo07",
+                "thumbUrl": "images/bmo/bmo_07_thumb.jpg",
+                "imageUrl": "images/bmo/bmo_07.jpg",
+                "title": "bmo07"
+            },   
+            {
+                "id": 7,
+                "name": "bmo08",
+                "thumbUrl": "images/bmo/bmo_08_thumb.jpg",
+                "imageUrl": "images/bmo/bmo_08.jpg",
+                "title": "bmo08"
+            },     
+            {
+                "id": 8,
+                "name": "bmo09",
+                "thumbUrl": "images/bmo/bmo_09_thumb.jpg",
+                "imageUrl": "images/bmo/bmo_09.jpg",
+                "title": "bmo09"
+            }   
+            ]
+
+
+        }
+    },
+    {
+    "id": 6,
+    "title": "Jav Group",
+    "type": "Consulting",
+    "thumbUrl" : "images/javgroup/javgroup.png",
+    "content" : {
+            "name" : "Jav Group",
+            "skillset": ["Solution Design and Management", "Front-end Architecture"],  
+            "description" : "<p>Jav Group offered expert e-learning coursed for high end skincare, makeup and sun care brands (Shisedo, Loreal, Clinique, Avene), and was led by Mickey Tortorreli, a renowned industry leader and key note speaker.</p><br><p>I was asked to direct technical operations for existing projects that were behind, as well as architect a full e-learning rich media suite. </p> <br>",
+            "challenges" : ["Reinvigorating existing projects was the first challenge; analysis of existing assets and technical frameworks, speaking with staff, and discovering where mistakes were made.  We strategized a roadmap to move the projects forward, and within a short period, we managed to deliver our courses without consequence.", "I was offered to design a full e-learning multimedia solution, to be deployed with the Avene brand.  I set out to design and develop a template solution that could be managed with xml, as well as integrate multimedia assets, and other highly customized learning content."],
+            "results" :  ["<p>The experiences with Jav Group were demanding, and required decisiveness and timely execution, there were many great lessons. I continued to liaise with Mickey, as we discussed many other opportunities. </p><br><p>JMickey went on the establish custom education portal called BeauteSchool, which was her great aspiration.  </p>"],
+            "quote" : "As if you were on fire from within. The moon lives in the lining of your skin.",
+            "imageData" : [
+            {
+                "id": 0,
+                "name": "javgroup01",
+                "thumbUrl": "images/javgroup/javgroup_01_thumb.jpg",
+                "imageUrl": "images/javgroup/javgroup_01.jpg",
+                "title": "javgroup01"
+            },
+            {
+                "id": 1,
+                "name": "javgroup02",
+                "thumbUrl": "images/javgroup/javgroup_02_thumb.jpg",
+                "imageUrl": "images/javgroup/javgroup_02.jpg",
+                "title": "javgroup02"
+            },
+            {
+                "id": 2,
+                "name": "javgroup03",
+                "thumbUrl": "images/javgroup/javgroup_03_thumb.jpg",
+                "imageUrl": "images/javgroup/javgroup_03.jpg",
+                "title": "javgroup03"
+            },
+            {
+                "id": 3,
+                "name": "javgroup04",
+                "thumbUrl": "images/javgroup/javgroup_04_thumb.jpg",
+                "imageUrl": "images/javgroup/javgroup_04.jpg",
+                "title": "javgroup04"
+            },
+            {
+                "id": 4,
+                "name": "javgroup05",
+                "thumbUrl": "images/javgroup/javgroup_05_thumb.jpg",
+                "imageUrl": "images/javgroup/javgroup_05.jpg",
+                "title": "javgroup05"
+            },
+            {
+                "id": 5,
+                "name": "javgroup06",
+                "thumbUrl": "images/javgroup/javgroup_06_thumb.jpg",
+                "imageUrl": "images/javgroup/javgroup_06.jpg",
+                "title": "javgroup06"
+            },
+            {
+                "id": 6,
+                "name": "javgroup07",
+                "thumbUrl": "images/javgroup/javgroup_07_thumb.jpg",
+                "imageUrl": "images/javgroup/javgroup_07.jpg",
+                "title": "javgroup07"
+            },   
+            {
+                "id": 7,
+                "name": "javgroup08",
+                "thumbUrl": "images/javgroup/javgroup_08_thumb.jpg",
+                "imageUrl": "images/javgroup/javgroup_08.jpg",
+                "title": "javgroup08"
+            },
+            {
+                "id": 8,
+                "name": "javgroup09",
+                "thumbUrl": "images/javgroup/javgroup_09_thumb.jpg",
+                "imageUrl": "images/javgroup/javgroup_09.jpg",
+                "title": "javgroup09"
+            }     
+            ]
+
+
+        }
+    },
+    {
+    "id": 7,
+    "title": "Limelight",
+    "type": "web presence",
+    "thumbUrl" : "images/limelight/limelight.png",
+    "content" : {
+            "name" : "Limelight Entertainment",
+            "skillset": ["Client Management ", "Branding", "Interactive Rich Media"],  
+            "description" : "<p>The Limelight group was a high-end studio, who produced and mastered tracks for top level artists, Shania Twain being a prominent example.</p><br><p>We had the opportunity to meet with the studio leads and present our services, they were new to the digital world, and wanted to create a new presence, and identity. </p> <br>",
+            "challenges" : ["JWorking with artists, we desired to develop a brand that met their creative mark, as well as their passion", "We brought in design specialists for logo, and print media, and meticulously critiqued and revised work, until we felt met our mark"],
+            "results" :  ["<p>The team was very pleased with the result, although it took great consideration, our vision of excellence was expressed through our work. </p>"],
+            "quote" : "Ground zero for me is audio.",
+            "imageData" : [
+            {
+                "id": 0,
+                "name": "limelight01",
+                "thumbUrl": "images/limelight/limelight_01_thumb.jpg",
+                "imageUrl": "images/limelight/limelight_01.jpg",
+                "title": "limelight01"
+            },
+            {
+                "id": 1,
+                "name": "limelight02",
+                "thumbUrl": "images/limelight/limelight_02_thumb.jpg",
+                "imageUrl": "images/limelight/limelight_02.jpg",
+                "title": "limelight02"
+            },
+            {
+                "id": 2,
+                "name": "limelight03",
+                "thumbUrl": "images/limelight/limelight_03_thumb.jpg",
+                "imageUrl": "images/limelight/limelight_03.jpg",
+                "title": "limelight03"
             }
-      },
+     
+             
+            ]
+
+
+        }
+    },
     {
-          "id": 11,
-          "title": "mmabud.com",
-          "type": "web concept",
-          "thumbUrl" : "logo1_bright.png",
-          "content" : {
-                "name" : "The Project11",
-                "skillset": ["punt aut ", "suscipit", "recusandae"],  
-                "description" : "<p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br> <p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br><p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p> <br>",
-                "challenges" : ["gunt aut facere repellat provident occaecati excepturi optio reprehenderit", "provident occaecati excepturi optio reprehenderit provident occaecati excepturi optio reprehenderit", "rerum est autem sunt rem eveniet architecto rerum est autem sunt rem eveniet architecto"],
-                "results" :  ["gunt aut  repellat provident occaecati excepturi optio ", " occaecati excepturi optio reprehenderit provident occaecati  optio reprehenderit", " est autem sunt rem eveniet  rerum est autem sunt rem eveniet "],
-                "quote" : "best jab I ever had ... ",
-                "imageData" : [
-                    {
-                        "id": 0,
-                        "name": "Green Nature",
-                        "imageUrl": "https://1.bp.blogspot.com/-up45dJ1vwEE/UMAw3fWxviI/AAAAAAAAOkE/AKrDgMDkLI0/s1600/Green+Nature+Wallpapers.jpg",
-                        "title": "wallpapers-xs.blogspot.com"
-                    },
-                    {
-                        "id": 1,
-                        "name": "Red Nature",
-                        "imageUrl": "https://2.bp.blogspot.com/_N_mOB63qPaE/TTGNvMO6zZI/AAAAAAAARoU/LX2QUhrTmoQ/s1600/Desktop-Nature-Wallpaper.jpg",
-                        "title": "animalszooguru.blogspot.com"
-                    },
-                    {
-                        "id": 2,
-                        "name": "Path",
-                        "imageUrl": "https://2.bp.blogspot.com/-I91kB3xYppQ/TZDPvc-ilzI/AAAAAAAABvw/JQBz0_8E_I4/s1600/Natural+Scenes+%25286%2529.jpg",
-                        "title": "hakeem786.blogspot.com"
-                    },
-                    {
-                        "id": 3,
-                        "name": "Country Road",
-                        "imageUrl": "https://2.bp.blogspot.com/-JxEm57kYpms/UMAvQULqnuI/AAAAAAAAOis/vVuC7CIN-BU/s1600/Green+Nature+Wallpapers+02.jpg",
-                        "title": "wallpapers-xs.blogspot.com"
-                    },
-                    {
-                        "id": 4,
-                        "name": "Throughway",
-                        "imageUrl": "https://1.bp.blogspot.com/-UjjdMoyW55E/TuRwkTMengI/AAAAAAAABCU/Qot38EiUZDU/s1600/Nature+Photo+Gallery.jpg",
-                        "title": "onlinenaturalphoto.blogspot.com"
-                    },
-                    {
-                        "id": 5,
-                        "name": "Golden Pond",
-                        "imageUrl": "https://3.bp.blogspot.com/-DWMXiqFQQsM/Tn2j9xWAwyI/AAAAAAAAAE0/XpQA7OtDGTw/s1600/amazing_nature_pictures+4.jpg",
-                        "title": "crazy-frankenstein.com"
-                    },
-                    {
-                        "id": 6,
-                        "name": "Sunflower",
-                        "imageUrl": "https://s19499.pcdn.co/wp-content/uploads/2019/07/Poolesville-Sunflowers-July-4-2019-DSC08529.jpg",
-                        "title": "mymcmedia.org"
-                    }
-                ]
-    
-    
+    "id": 8,
+    "title": "Invivo",
+    "type": "client work",
+    "thumbUrl" : "images/invivo/invivo.png",
+    "content" : {
+            "name" : "Invivo Communications",
+            "skillset": ["Interactive Development", "Project Management"],  
+            "description" : "<p>Invivo Communications (now Red Nucleus), was recognized for delivering high-fidelity medical communications and education for high-end pharmaceutical brands. </p><br><p>Our team was asked to create educational interactive presentations for our clients, projects included:  the demonstration the efficaciousness of cancer treatments over time, the deleterious effects of  iron levels in the heart and liver, to deliver meal scheduler for cancer patients. </p> <br>",
+            "challenges" : ["We had many constraints to work within, we took great effort to consider and propose accurate timelines for product development, animation, technical development and deployment.  Effective coordination was required with design teams, art direction and management. ", "The vice-president was known for his creative edge, and bold proposals.  I was asked to reinvigorate that had become stagnate, because of its complexity.  A highly intricate wheel component was asked to be built, and integrated with a flex backend."],
+            "results" :  ["<p>With solid leadership and preeminent creatives, our work made marks in the industry.</p>"],
+            "quote" : "Say a little and say it well",
+            "imageData" : [
+            {
+                "id": 0,
+                "name": "invivo01",
+                "thumbUrl": "images/invivo/invivo_01_thumb.jpg",
+                "imageUrl": "images/invivo/invivo_01.jpg",
+                "title": "invivo01"
+            },
+            {
+                "id": 1,
+                "name": "invivo02",
+                "thumbUrl": "images/invivo/invivo_02_thumb.jpg",
+                "imageUrl": "images/invivo/invivo_02.jpg",
+                "title": "invivo02"
+            },
+            {
+                "id": 2,
+                "name": "invivo03",
+                "thumbUrl": "images/invivo/invivo_03_thumb.jpg",
+                "imageUrl": "images/invivo/invivo_03.jpg",
+                "title": "invivo03"
+            },
+            {
+                "id": 3,
+                "name": "invivo04",
+                "thumbUrl": "images/invivo/invivo_04_thumb.jpg",
+                "imageUrl": "images/invivo/invivo_04.jpg",
+                "title": "invivo04"
+            },
+            {
+                "id": 4,
+                "name": "invivo05",
+                "thumbUrl": "images/invivo/invivo_05_thumb.jpg",
+                "imageUrl": "images/invivo/invivo_05.jpg",
+                "title": "invivo05"
+            },
+            {
+                "id": 5,
+                "name": "invivo06",
+                "thumbUrl": "images/invivo/invivo_06_thumb.jpg",
+                "imageUrl": "images/invivo/invivo_06.jpg",
+                "title": "invivo06"
+            },
+            {
+                "id": 6,
+                "name": "invivo07",
+                "thumbUrl": "images/invivo/invivo_07_thumb.jpg",
+                "imageUrl": "images/invivo/invivo_07.jpg",
+                "title": "invivo07"
+            },   
+            {
+                "id": 7,
+                "name": "invivo08",
+                "thumbUrl": "images/invivo/invivo_08_thumb.jpg",
+                "imageUrl": "images/invivo/invivo_08.jpg",
+                "title": "invivo08"
+            },
+            {
+                "id": 8,
+                "name": "invivo09",
+                "thumbUrl": "images/invivo/invivo_09_thumb.jpg",
+                "imageUrl": "images/invivo/invivo_09.jpg",
+                "title": "invivo09"
+            }     
+            ]
+
+
+        }
+    },
+    {
+    "id": 9,
+    "title": "Ogilvy",
+    "type": "client work",
+    "thumbUrl" : "images/ogilvy/ogilvy.png",
+    "content" : {
+            "name" : "Ogilvy and Mather",
+            "skillset": ["Project Management", "Web Production ", "Marketing Strategy "],  
+            "description" : "<p> Ogilvy has been building brands since 1948, a well-recognized player, the Ogilvy trademark speaks for itself. I was fortunate in being offered a project management opportunity in their Redworks division, the production partner for all of the major agency divisions.</p><br><p>I was asked to perform a very demanding client facing role,  an associate for the division, I lead and directed project work for our client’s digital, social and mobile portfolios, including IBM, Cogeco, Kimberly Clark, Unilever, Winners. </p> <br>",
+            "challenges" : ["The agency work environment is high pace and high stress, also high reward.  The key stake in the game is to structure, manage and meet expectations. Establish trust, by delivering quality; be consistent in your approach, with your work and your word; and be patient, go with the flow, you are always among friends. ", "Move into uncharted waters, ensure all are on the same page, and align with your objectives.  Mistakes will be made, learn and keep moving, nothing is personal. "],
+            "results" :  ["<p>Many connections, many memories, although I was asked to manage many of the high-profile projects, and clients, the experience was phenomenal. </p><br><p>I still adhere to many doctrines put forth by the Ogilvy name. Integrity, knowledge … a little empathy goes a long way. </p>"],
+            "quote" : "In a room where people unanimously maintain a conspiracy of silence, one word of truth sounds like a pistol shot.",
+            "imageData" : [
+            {
+                "id": 0,
+                "name": "ogilvy01",
+                "thumbUrl": "images/ogilvy/ogilvy_01_thumb.jpg",
+                "imageUrl": "images/ogilvy/ogilvy_01.jpg",
+                "title": "ogilvy01"
+            },
+            {
+                "id": 1,
+                "name": "jamesblak02",
+                "thumbUrl": "images/ogilvy/ogilvy_02_thumb.jpg",
+                "imageUrl": "images/ogilvy/ogilvy_02.jpg",
+                "title": "ogilvy02"
+            },
+            {
+                "id": 2,
+                "name": "ogilvy03",
+                "thumbUrl": "images/ogilvy/ogilvy_03_thumb.jpg",
+                "imageUrl": "images/ogilvy/ogilvy_03.jpg",
+                "title": "ogilvy03"
+            },
+            {
+                "id": 3,
+                "name": "ogilvy04",
+                "thumbUrl": "images/ogilvy/ogilvy_04_thumb.jpg",
+                "imageUrl": "images/ogilvy/ogilvy_04.jpg",
+                "title": "ogilvy04"
             }
-      },
+            ]
+
+
+        }
+    },
     {
-              "id": 12,
-              "title": "mmabud.com",
-              "type": "web concept",
-              "thumbUrl" : "logo1_bright.png",
-              "content" : {
-                    "name" : "The Project12",
-                    "skillset": ["punt aut ", "suscipit", "recusandae"],  
-                    "description" : "<p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br> <p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p><br><p>punt aut facere repellat provident occaecati excepturi optio reprehenderit repellat provident occaecati excepturi optio reprehenderit</p> <br>",
-                    "challenges" : ["gunt aut facere repellat provident occaecati excepturi optio reprehenderit", "provident occaecati excepturi optio reprehenderit provident occaecati excepturi optio reprehenderit", "rerum est autem sunt rem eveniet architecto rerum est autem sunt rem eveniet architecto"],
-                    "results" :  ["gunt aut  repellat provident occaecati excepturi optio ", " occaecati excepturi optio reprehenderit provident occaecati  optio reprehenderit", " est autem sunt rem eveniet  rerum est autem sunt rem eveniet "],
-                    "quote" : "best jab I ever had ... ",
-                    "imageData" : [
-                        {
-                            "id": 0,
-                            "name": "Green Nature",
-                            "imageUrl": "https://1.bp.blogspot.com/-up45dJ1vwEE/UMAw3fWxviI/AAAAAAAAOkE/AKrDgMDkLI0/s1600/Green+Nature+Wallpapers.jpg",
-                            "title": "wallpapers-xs.blogspot.com"
-                        },
-                        {
-                            "id": 1,
-                            "name": "Red Nature",
-                            "imageUrl": "https://2.bp.blogspot.com/_N_mOB63qPaE/TTGNvMO6zZI/AAAAAAAARoU/LX2QUhrTmoQ/s1600/Desktop-Nature-Wallpaper.jpg",
-                            "title": "animalszooguru.blogspot.com"
-                        },
-                        {
-                            "id": 2,
-                            "name": "Path",
-                            "imageUrl": "https://2.bp.blogspot.com/-I91kB3xYppQ/TZDPvc-ilzI/AAAAAAAABvw/JQBz0_8E_I4/s1600/Natural+Scenes+%25286%2529.jpg",
-                            "title": "hakeem786.blogspot.com"
-                        },
-                        {
-                            "id": 3,
-                            "name": "Country Road",
-                            "imageUrl": "https://2.bp.blogspot.com/-JxEm57kYpms/UMAvQULqnuI/AAAAAAAAOis/vVuC7CIN-BU/s1600/Green+Nature+Wallpapers+02.jpg",
-                            "title": "wallpapers-xs.blogspot.com"
-                        },
-                        {
-                            "id": 4,
-                            "name": "Throughway",
-                            "imageUrl": "https://1.bp.blogspot.com/-UjjdMoyW55E/TuRwkTMengI/AAAAAAAABCU/Qot38EiUZDU/s1600/Nature+Photo+Gallery.jpg",
-                            "title": "onlinenaturalphoto.blogspot.com"
-                        },
-                        {
-                            "id": 5,
-                            "name": "Golden Pond",
-                            "imageUrl": "https://3.bp.blogspot.com/-DWMXiqFQQsM/Tn2j9xWAwyI/AAAAAAAAAE0/XpQA7OtDGTw/s1600/amazing_nature_pictures+4.jpg",
-                            "title": "crazy-frankenstein.com"
-                        },
-                        {
-                            "id": 6,
-                            "name": "Sunflower",
-                            "imageUrl": "https://s19499.pcdn.co/wp-content/uploads/2019/07/Poolesville-Sunflowers-July-4-2019-DSC08529.jpg",
-                            "title": "mymcmedia.org"
-                        }
-                    ]
-        
-        
+    "id": 10,
+    "title": "Concept Art",
+    "type": "web concept",
+    "thumbUrl" : "images/concept/concept.png",
+    "content" : {
+            "name" : "Concept Art",
+            "skillset": ["Art Dirction", "Branding", "Client Management"],  
+            "description" : "<p>What is the right way to approach a brand? Name, design, symbols, market reach, emotional connection … brand definition is hard to pin down, however we could agree on a few key ideas: identity, distinction, connection, offering, promotion.</p><br><p>We aspire to connect what you see, what you hear, what you feel … with what you want, what you need, and what you could offer in return. </p> <br>",
+            "challenges" : ["What does your customers, your audience, your partners value most about who you are, and what you do. How would you convey that in messaging, in art and design … and how could you stand apart", "Align the medium and the message"],
+            "results" :  ["<p>The brand process in complex, but you know when you get it right when customers easily connect with your message, clarity and consistency is paramount.  </p><br><p>Brand strategy is where perception meets your product or service.  </p>"],
+            "quote" : "Art is coming face to face with yourself.",
+            "imageData" : [
+            {
+                "id": 0,
+                "name": "concept01",
+                "thumbUrl": "images/concept/concept_01_thumb.jpg",
+                "imageUrl": "images/concept/concept_01.jpg",
+                "title": "concept01"
+            },
+            {
+                "id": 1,
+                "name": "concept02",
+                "thumbUrl": "images/concept/concept_02_thumb.jpg",
+                "imageUrl": "images/concept/concept_02.jpg",
+                "title": "concept02"
+            },
+            {
+                "id": 2,
+                "name": "concept03",
+                "thumbUrl": "images/concept/concept_03_thumb.jpg",
+                "imageUrl": "images/concept/concept_03.jpg",
+                "title": "concept03"
+            },
+            {
+                "id": 3,
+                "name": "concept04",
+                "thumbUrl": "images/concept/concept_04_thumb.jpg",
+                "imageUrl": "images/concept/concept_04.jpg",
+                "title": "concept04"
+            },
+            {
+                "id": 4,
+                "name": "concept05",
+                "thumbUrl": "images/concept/concept_05_thumb.jpg",
+                "imageUrl": "images/concept/concept_05.jpg",
+                "title": "concept05"
+            } 
+            ]
+
+
+        }
+    },
+    {
+    "id": 11,
+    "title": "global dl",
+    "type": "web presence",
+    "thumbUrl" : "images/global/global.png",
+    "content" : {
+            "name" : "global dl",
+            "skillset": ["Web Site", "Branding", "Client Management"],  
+            "description" : "<p>Global-dl provided custom IT solutions, from concept to completion, and were in the middle of a rapid expansion during the IT boom.</p><br><p>The two partners wanted to rebrand their original name (Dynamic Lynx), to better represent their new identity and vision.</p> <br>",
+            "challenges" : ["The company was undergoing a shift is service offering, with many new partners, we wanted to create a new brand that exemplified their rapid expansion. ", "After many iterations, we went with global-dl, to better represent their networking roots and inspiring vision for their market.  Once we landed on the name, many of the pieces fell into place, the art direction came together to perfection."],
+            "results" :  ["<p>Global-dl made headway in the industry, and become our long term partner, we delighted in their success.</p>"],
+            "quote" : "Technology like art is a soaring exersise of the human imagination",
+            "imageData" : [
+            {
+                "id": 0,
+                "name": "global01",
+                "thumbUrl": "images/global/global_01_thumb.jpg",
+                "imageUrl": "images/global/global_01.jpg",
+                "title": "global01"
+            },
+            {
+                "id": 1,
+                "name": "global02",
+                "thumbUrl": "images/global/global_02_thumb.jpg",
+                "imageUrl": "images/global/global_02.jpg",
+                "title": "global02"
+            }
+           
+            ]
+
+
+        }
+    },
+    {
+    "id": 12,
+    "title": "Korby Banner",
+    "type": "web presence",
+    "thumbUrl" : "images/korby/korby.png",
+    "content" : {
+            "name" : "Korby Banner Photography",
+            "skillset": ["Web Production ", "Branding", "Client Management"],  
+            "description" : "<p>Korby Banner is a visual artist and photographer, as well as a recognized media personality.  He has made his mark in the industry, and requested his presence be known in the digital space.</p><br><p>JWe worked with Korby to develop his brand, to create all of his print and digital media, and a full web presence.  </p> <br>",
+            "challenges" : ["Being a visual artist, Korby was very attentive to style, color, and the aesthetic quality of our work.  The attention to detail was critical, we went through many treatments with Korby, font design, colors, image presentation, usability, all had to harmonize with his vision. ", "He demanded elegance and simplicity, as many people would be interested in his brand, our interface had to be both fashionable and usable. "],
+            "results" :  ["<p>Korby banner is a true artist, his work and life are one and the same.  His endearing nature brought out our best, the brand was our best work to date. </p><br><p>Later, I met someone who went to school for interactive media design, and found out that the instructor used our site as teaching example, an illustration of prominent interactive design. </p>"],
+            "quote" : "Photography is an austere and blazing poetry of the real",
+            "imageData" : [
+            {
+                "id": 0,
+                "name": "korby01",
+                "thumbUrl": "images/korby/korby_01_thumb.jpg",
+                "imageUrl": "images/korby/korby_01.jpg",
+                "title": "korby01"
+            },
+            {
+                "id": 1,
+                "name": "korby02",
+                "thumbUrl": "images/korby/korby_02_thumb.jpg",
+                "imageUrl": "images/korby/korby_02.jpg",
+                "title": "korby02"
+            },
+            {
+                "id": 2,
+                "name": "korby03",
+                "thumbUrl": "images/korby/korby_03_thumb.jpg",
+                "imageUrl": "images/korby/korby_03.jpg",
+                "title": "korby03"
+            },
+            {
+                "id": 3,
+                "name": "korby04",
+                "thumbUrl": "images/korby/korby_04_thumb.jpg",
+                "imageUrl": "images/korby/korby_04.jpg",
+                "title": "korby04"
+            },
+            {
+                "id": 4,
+                "name": "korby05",
+                "thumbUrl": "images/korby/korby_05_thumb.jpg",
+                "imageUrl": "images/korby/korby_05.jpg",
+                "title": "korby05"
+            }
+          
+            ]
+
+
+        }
+    },
+    {
+    "id": 13,
+    "title": "pi media",
+    "type": "client work",
+    "thumbUrl" : "images/pi/pi.png",
+    "content" : {
+            "name" : "pi media",
+            "skillset": ["Interactive Design", "Web Design", "Digital Signage"],  
+            "description" : "<p>pi media was recognized for elaborate studio work, the new interactive division was the digital footprint for all client portals (Bell,  Sears, Blockbuster, Tim Hortons, Shopper Drug Mart).</p><br><p>Our landmark initiative was to deploy a centralized digital signage solution for Sears and Tim Hortons. Our digital team brought their rich media to life.</p> <br><p>Touch screen technology was introduced to Bell store kiosks, our technical team engineered the hardware and software implementation.</p> <br>",
+            "challenges" : ["Working with unprecedented models can be daunting. pi media pioneered modern digital signage solutions, along with the technical architecture, and implementation.  ", "We needed to speak many languages, our team included hardware, software, networking, system administration professionals"],
+            "results" :  ["<p>A remarkable learning  experience for all, the interactive division grew and split into specialized groups.  </p><br><p>JThe team dynamic was a key to their success, a high-energy, high-paced environment with dedicated professionals, we expected the best.</p>"],
+            "quote" : "A creative life is an amplified life",
+            "imageData" : [
+            {
+                "id": 0,
+                "name": "pi01",
+                "thumbUrl": "images/pi/pi_01_thumb.jpg",
+                "imageUrl": "images/pi/pi_01.jpg",
+                "title": "pi01"
+            },
+            {
+                "id": 1,
+                "name": "pi02",
+                "thumbUrl": "images/pi/pi_02_thumb.jpg",
+                "imageUrl": "images/pi/pi_02.jpg",
+                "title": "pi02"
+            },
+            {
+                "id": 2,
+                "name": "jamesblak03",
+                "thumbUrl": "images/pi/pi_03_thumb.jpg",
+                "imageUrl": "images/pi/pi_03.jpg",
+                "title": "jamesblak03"
+            },
+            {
+                "id": 3,
+                "name": "pi04",
+                "thumbUrl": "images/pi/pi_04_thumb.jpg",
+                "imageUrl": "images/pi/pi_04.jpg",
+                "title": "pi04"
+            },
+            {
+                "id": 4,
+                "name": "pi05",
+                "thumbUrl": "images/pi/pi_05_thumb.jpg",
+                "imageUrl": "images/pi/pi_05.jpg",
+                "title": "pi05"
+            },
+            {
+                "id": 5,
+                "name": "pi06",
+                "thumbUrl": "images/pi/pi_06_thumb.jpg",
+                "imageUrl": "images/pi/pi_06.jpg",
+                "title": "pi06"
+            }
+            ]
+
+
+        }
+    },
+    {
+        "id": 14,
+        "title": "theseedstone",
+        "type": "digital product",
+        "thumbUrl" : "images/seedstone/seedstone.png",
+        "content" : {
+                "name" : "the seed stone",
+                "skillset": ["Product design", "Jam Stack", "UX development"],  
+                "description" : "<p>The Seed Stone is the name for an aspiring product that can looks to amplify powerful ideas, and  inspire people.  We created a powerful product vision, and coupled that with a purposeful roadmap, our expectations were sky high. </p><br><p>We set out to create a prototype product using a modern web stack, and with an advanced technical implementation. The learning curve was high, as was our aspiration.</p> <br>",
+                "challenges" : ["The greatest challenge was to keep moving forward, dealing with unknowns became common place, R&D included project management systems, product roadmaps, user experience models, technical development and implementation. ", "We had to rely on our passion and our vision, keeping our eyes to the sky. "],
+                "results" :  ["<p>This project is still in progress … look for this end of 2022. </p> <br><p><em>Though I do not believe that a plant will spring up where no seed has been, I have great faith in a seed. Convince me that you have a seed. there, and I am prepared to expect wonders</em></p>"],
+                "quote" : "I have great faith in a seed",
+                "imageData" : [
+                {
+                    "id": 0,
+                    "name": "seedstone01",
+                    "thumbUrl": "images/seedstone/seedstone_01_thumb.jpg",
+                    "imageUrl": "images/seedstone/seedstone_01.jpg",
+                    "title": "seedstone01"
+                },
+                {
+                    "id": 1,
+                    "name": "seedstone02",
+                    "thumbUrl": "images/seedstone/seedstone_02_thumb.jpg",
+                    "imageUrl": "images/seedstone/seedstone_02.jpg",
+                    "title": "seedstone02"
+                },
+                {
+                    "id": 2,
+                    "name": "seedstone03",
+                    "thumbUrl": "images/seedstone/seedstone_03_thumb.jpg",
+                    "imageUrl": "images/seedstone/seedstone_03.jpg",
+                    "title": "seedstone03"
+                },
+                {
+                    "id": 3,
+                    "name": "seedstone04",
+                    "thumbUrl": "images/seedstone/seedstone_04_thumb.jpg",
+                    "imageUrl": "images/seedstone/seedstone_04.jpg",
+                    "title": "seedstone04"
+                },
+                {
+                    "id": 4,
+                    "name": "seedstone05",
+                    "thumbUrl": "images/seedstone/seedstone_05_thumb.jpg",
+                    "imageUrl": "images/seedstone/seedstone_05.jpg",
+                    "title": "seedstone05"
+                },
+                {
+                    "id": 5,
+                    "name": "seedstone06",
+                    "thumbUrl": "images/seedstone/seedstone_06_thumb.jpg",
+                    "imageUrl": "images/seedstone/seedstone_06.jpg",
+                    "title": "seedstone06"
+                },
+                {
+                    "id": 6,
+                    "name": "seedstone07",
+                    "thumbUrl": "images/seedstone/seedstone_07_thumb.jpg",
+                    "imageUrl": "images/seedstone/seedstone_07.jpg",
+                    "title": "seedstone07"
+                },
+                {
+                    "id": 7,
+                    "name": "seedstone08",
+                    "thumbUrl": "images/seedstone/seedstone_08_thumb.jpg",
+                    "imageUrl": "images/seedstone/seedstone_08.jpg",
+                    "title": "seedstone08"
+                },
+                {
+                    "id": 8,
+                    "name": "seedstone09",
+                    "thumbUrl": "images/seedstone/seedstone_09_thumb.jpg",
+                    "imageUrl": "images/seedstone/seedstone_09.jpg",
+                    "title": "seedstone09"
                 }
-      }
+
+                ]
+    
+    
+            }
+        }
    
   ]

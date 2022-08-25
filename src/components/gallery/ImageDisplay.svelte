@@ -22,9 +22,10 @@ img {
 }		
 	
 img:hover {   
-   box-shadow: 0 0 6 rgba(255, 255, 255, 0.8);
-   transform: scale(1.7);
+   box-shadow: 0 0 6 rgba(255, 255, 255, 0.2);
+   transform: scale(1.8);
    filter: grayscale(0);
+   z-index:  10;
 
 }	
 </style>
@@ -38,15 +39,14 @@ img:hover {
     </div>
     
     <div class="flex w-64">
-     <div class="grid grid-cols-3 gap-1">
-         {#each imageData as {id, imageUrl, name}}
+     <div class="grid grid-cols-3 gap-1 items-start">
+         {#each imageData as {id, thumbUrl, name}}
              <div class="flex justify-center items-center">
-                 <img id={String(id)} src={imageUrl} alt={name} on:click />
+                 <img id={String(id)} src={thumbUrl} alt={name} on:click />
              </div>
          {/each}
      </div>
     </div>
-
 </section>
 
 
