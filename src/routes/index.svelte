@@ -5,15 +5,12 @@
     
     // lib
      import {onMount} from "svelte";
-     import { disableScrollHandling } from '$app/navigation';
+    //import { disableScrollHandling } from '$app/navigation';
  
     // interface
     import Card from "../components/interface/Card.svelte"
 
     let display = false;
-    let testImage = 'logo1_bright.png'
-
-
 
 
     onMount(()=> {

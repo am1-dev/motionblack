@@ -1,10 +1,9 @@
 <script lang="ts">
 
-        
-    import {ScrollTrigger} from "gsap/dist/ScrollTrigger";  
-    import { gsap } from "gsap";
+    import { gsap, ScrollTrigger } from "../scripts/gsap";
+    
 
-    gsap.registerPlugin(ScrollTrigger)  
+    //gsap.registerPlugin(ScrollTrigger)  
     
     /* 
         scroll trigger: 

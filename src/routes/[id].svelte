@@ -23,7 +23,7 @@
     import {rotate} from '../transition'
     //import {gsap}  from "gsap/dist/gsap";        
     //import {ScrollTrigger} from "gsap/dist/ScrollTrigger";  
-    import { gsap } from "gsap";
+    import { gsap } from "../scripts/gsap";
 
 
 
